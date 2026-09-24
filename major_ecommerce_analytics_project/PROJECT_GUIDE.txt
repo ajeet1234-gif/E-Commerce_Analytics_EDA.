@@ -1,0 +1,120 @@
+MAJOR E-COMMERCE ANALYTICS PROJECT
+====================================
+
+TABLES
+------
+customers.csv      ~20K+ rows
+products.csv       1,000 rows
+orders.csv         ~100K+ rows
+order_items.csv    ~200K+ rows
+payments.csv       ~99K rows
+reviews.csv        ~50K+ rows
+
+RELATIONSHIPS
+-------------
+customers.customer_id  -> orders.customer_id
+orders.order_id        -> order_items.order_id
+products.product_id    -> order_items.product_id
+orders.order_id        -> payments.order_id
+orders.order_id        -> reviews.order_id
+customers.customer_id  -> reviews.customer_id
+products.product_id    -> reviews.product_id
+
+PROJECT PHASES
+--------------
+PHASE 1: DATA UNDERSTANDING
+- Load all CSVs
+- shape, info, describe
+- columns and data types
+- unique values
+- identify primary/foreign keys
+
+PHASE 2: DATA CLEANING
+- Null values
+- Duplicate rows
+- Wrong data types
+- Invalid dates
+- Negative values
+- Outliers
+- Invalid foreign keys
+- Inconsistent categories
+- Inconsistent payment methods/status
+- Standardize gender/category/brand values
+
+PHASE 3: RELATIONSHIPS & JOINS
+Practice:
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- OUTER JOIN
+- 3-table join
+- 4-table join
+- 5-table join
+
+PHASE 4: FEATURE ENGINEERING
+Create:
+- gross_amount = quantity * price
+- discount_amount
+- net_amount
+- profit
+- profit_margin
+- month
+- year
+- day_of_week
+- delivery performance flag
+- repeat customer flag
+
+PHASE 5: BUSINESS QUESTIONS
+1. Total revenue and total profit?
+2. Monthly revenue trend?
+3. Top 10 products by revenue?
+4. Top categories?
+5. Top brands?
+6. Which cities generate the most revenue?
+7. Which customers have highest lifetime value?
+8. New vs repeat customer revenue?
+9. Average Order Value (AOV)?
+10. Cancellation and return rate?
+11. Payment method performance?
+12. Failed/refunded payment analysis?
+13. Average rating by category/product?
+14. Which products have high sales but poor ratings?
+15. Which products have high ratings but low sales?
+16. Delivery time vs customer rating?
+17. Discount vs revenue/profit?
+18. Which customer segments generate most profit?
+19. Monthly customer acquisition?
+20. Identify potentially valuable customers.
+
+PHASE 6: VISUALIZATION
+Use:
+- Matplotlib
+- Seaborn
+
+Charts:
+- Line chart
+- Bar chart
+- Horizontal bar
+- Histogram
+- Boxplot
+- Scatter plot
+- Heatmap
+- Pie/Donut where appropriate
+
+PHASE 7: FINAL PROJECT
+Deliver:
+- Clean datasets
+- Python notebook
+- EDA
+- Visualizations
+- Business insights
+- Executive summary
+- Optional SQL analysis
+- Optional Power BI dashboard
+
+IMPORTANT
+---------
+The data intentionally contains errors.
+Do NOT simply drop every problematic row.
+Try to diagnose the reason and decide whether to fix, replace,
+recalculate, flag, or remove each issue.

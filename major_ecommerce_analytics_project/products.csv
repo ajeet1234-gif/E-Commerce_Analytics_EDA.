@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,cost_price,stock_qty,supplier
+1001,UrbanX Product 1001,Accessories,PrimeChoice,3763.91,2069.06,675,Supplier_D
+1002,HomeEase Product 1002,Home & Kitchen,StyleHub,597.49,468.64,756,Supplier_E
+1003,StyleHub Product 1003,Electronic,HomeEase,570.82,408.21,632,Supplier_D
+1004,Nova Product 1004,Home & Kitchen,FitLife,1543.57,870.31,204,Supplier_D
+1005,TechPro Product 1005,Automotive,Nova,1732.35,867.14,21,Supplier_D
+1006,UrbanX Product 1006,Accessories,Elite,1309.09,705.41,821,Supplier_D
+1007,Elite Product 1007,Toys,StyleHub,,712.91,775,Supplier_D
+1008,DailyNeeds Product 1008,Beauty,UrbanX,1062.28,590.57,189,Supplier_D
+1009,SmartBuy Product 1009,Books,Elite,1678.29,891.97,754,Supplier_C
+1010,TechPro Product 1010,Accessories,HomeEase,,617.37,133,Supplier_B
+1011,FitLife Product 1011,Books,SmartBuy,2025.99,1382.81,68,Supplier_B
+1012,TechPro Product 1012,Accessories,HomeEase,4164.56,2449.24,51,Supplier_B
+1013,SmartBuy Product 1013,Books,StyleHub,1080.8,808.64,548,Supplier_E
+1014,SmartBuy Product 1014,Accessories,FitLife,924.71,629.87,310,Supplier_B
+1015,SmartBuy Product 1015,Grocery, TechPro ,1073.27,692.36,589,Supplier_A
+1016,FitLife Product 1016,Automotive,PrimeChoice,873.82,530.16,316,Supplier_A
+1017,UrbanX Product 1017,Sports,HomeEase,318.55,152.9,720,Supplier_C
+1018,DailyNeeds Product 1018,Electronics, TechPro ,4030.55,2797.13,586,Supplier_A
+1019,TechPro Product 1019,Toys,Nova,830.37,387.06,714,Supplier_D
+1020,PrimeChoice Product 1020,Fashion,TechPro,1161.36,854.41,925,Supplier_C
+1021,DailyNeeds Product 1021,Toys,StyleHub,6408.85,5092.81,886,Supplier_E
+1022,SmartBuy Product 1022,Toys,TechPro,996.3,582.06,12,Supplier_D
+1023,UrbanX Product 1023,Sports,HomeEase,2443.25,1930.91,222,Supplier_D
+1024,UrbanX Product 1024,Automotive,FitLife,1207.47,742.72,41,Supplier_C
+1025,HomeEase Product 1025,Electronics,HomeEase,3972.64,2048.49,399,Supplier_A
+1026,TechPro Product 1026,Automotive,TechPro,3770.08,1843.64,377,Supplier_C
+1027,HomeEase Product 1027,Books,StyleHub,1031.75,722.31,940,Supplier_A
+1028,SmartBuy Product 1028,Automotive,FitLife,3894.6,2707.29,386,Supplier_D
+1029,FitLife Product 1029,Automotive,StyleHub,1437.5,1018.92,932,Supplier_E
+1030,TechPro Product 1030,Sports,UrbanX,1743.42,992.58,743,Supplier_D
+1031,UrbanX Product 1031,Fashion,Elite,659.38,315.47,376,Supplier_E
+1032,FitLife Product 1032,Books,PrimeChoice,1759.01,927.34,46,Supplier_C
+1033,StyleHub Product 1033,Grocery,DailyNeeds,603.94,315.82,267,Supplier_C
+1034,Nova Product 1034,Electronics,FitLife,2981.95,1424.03,307,Supplier_B
+1035,PrimeChoice Product 1035,Automotive,Elite,2311.44,1252.88,982,Supplier_D
+1036,HomeEase Product 1036,Books,UrbanX,3693.0,1790.62,166,Supplier_A
+1037,SmartBuy Product 1037,Books,Nova,280.39,129.76,380,Supplier_A
+1038,UrbanX Product 1038,Toys,DailyNeeds,1152.8,899.45,592,Supplier_A
+1039,Elite Product 1039,Accessories,Nova,2934.91,1364.07,11,Supplier_C
+1040,Nova Product 1040,Automotive,FitLife,528.79,376.11,-5,Supplier_E
+1041,PrimeChoice Product 1041,Toys,PrimeChoice,5309.99,2897.65,365,Supplier_E
+1042,UrbanX Product 1042,Electronics,Elite,407.59,289.54,885,Supplier_D
+1043,StyleHub Product 1043,Toys,FitLife,439.63,245.01,181,Supplier_B
+1044,StyleHub Product 1044,Fashion,SmartBuy,898.8,470.38,212,Supplier_B
+1045,FitLife Product 1045,Electronics,UrbanX,1178.68,670.26,302,Supplier_A
+1046,Nova Product 1046,Electronic,StyleHub,904.97,419.14,79,Supplier_A
+1047,Elite Product 1047,Beauty,Nova,1788.87,1418.37,818,Supplier_E
+1048,Nova Product 1048,Beauty,Nova,1673.42,1106.67,842,Supplier_C
+1049,UrbanX Product 1049,Toys,DailyNeeds,1073.55,856.35,976,Supplier_A
+1050,DailyNeeds Product 1050,Books,SmartBuy,2629.44,1801.5,953,Supplier_D
+1051,UrbanX Product 1051,Toys,FitLife,1296.77,833.33,116,Supplier_E
+1052,TechPro Product 1052,Electronics,Elite,329.22,163.0,426,Supplier_B
+1053,FitLife Product 1053,Electronics,HomeEase,1246.29,923.1,791,Supplier_E
+1054,Nova Product 1054,Fashion, TechPro ,2251.61,1444.38,646,Supplier_E
+1055,Nova Product 1055,Sports,TechPro,925.65,712.47,860,Supplier_B
+1056,FitLife Product 1056,Books,PrimeChoice,520.82,327.41,684,Supplier_C
+1057,HomeEase Product 1057,Home & Kitchen,StyleHub,551.96,324.21,912,Supplier_D
+1058,Nova Product 1058,Electronics,SmartBuy,1986.51,1018.51,56,Supplier_D
+1059,TechPro Product 1059,Beauty,DailyNeeds,4904.81,2519.76,109,Supplier_E
+1060,HomeEase Product 1060,Beauty,DailyNeeds,1036.06,766.43,510,Supplier_E
+1061,HomeEase Product 1061,Toys,FitLife,1036.01,576.62,387,Supplier_E
+1062,FitLife Product 1062,Electronics,TechPro,267.77,214.43,617,Supplier_B
+1063,UrbanX Product 1063,Automotive,FitLife,1919.04,975.6,593,Supplier_E
+1064,SmartBuy Product 1064,Fashion,Nova,1955.58,1412.27,427,Supplier_B
+1065,Nova Product 1065,Accessories,Elite,,556.33,700,Supplier_A
+1066,StyleHub Product 1066,Home & Kitchen,Elite,4409.5,3227.36,141,Supplier_D
+1067,PrimeChoice Product 1067,Fashion,Elite,3340.76,2022.55,458,Supplier_E
+1068,Elite Product 1068,Books,HomeEase,,2779.6,146,Supplier_E
+1069,UrbanX Product 1069,Fashion,StyleHub,4952.15,2235.25,221,Supplier_E
+1070,PrimeChoice Product 1070,Grocery,SmartBuy,688.87,464.98,909,Supplier_B
+1071,TechPro Product 1071,Sports,Elite,870.4,398.69,664,Supplier_E
+1072,TechPro Product 1072,Automotive,FitLife,813.85,521.68,70,Supplier_B
+1073,Nova Product 1073,Home & Kitchen,SmartBuy,1459.25,865.19,-5,Supplier_B
+1074,HomeEase Product 1074,Grocery,StyleHub,1484.83,1107.47,638,Supplier_D
+1075,HomeEase Product 1075,Fashion,SmartBuy,1178.45,634.63,675,Supplier_A
+1076,Elite Product 1076,Toys,HomeEase,2418.61,1308.29,46,Supplier_C
+1077,UrbanX Product 1077,Grocery,SmartBuy,1758.49,1302.7,140,Supplier_A
+1078,UrbanX Product 1078,Sports,Nova,1274.56,602.87,624,Supplier_A
+1079,FitLife Product 1079,Sports,Nova,2638.5,1669.51,-5,Supplier_A
+1080,Nova Product 1080,Electronics,HomeEase,386.1,254.41,383,Supplier_A
+1081,DailyNeeds Product 1081,Automotive,DailyNeeds,845.89,493.7,282,Supplier_C
+1082,Elite Product 1082,Electronics,Elite,2881.44,1832.68,180,Supplier_E
+1083,HomeEase Product 1083,Beauty,UrbanX,972.46,560.27,990,Supplier_C
+1084,TechPro Product 1084,Fashion,SmartBuy,172.51,119.78,304,Supplier_A
+1085,HomeEase Product 1085,Accessories,UrbanX,1052.04,825.45,602,Supplier_B
+1086,SmartBuy Product 1086,Sports,StyleHub,1279.13,870.87,544,Supplier_B
+1087,Elite Product 1087,Beauty,Nova,4713.63,2188.12,225,Supplier_E
+1088,TechPro Product 1088,Grocery,SmartBuy,2427.24,1339.28,163,Supplier_A
+1089,Elite Product 1089,Electronics,StyleHub,386.43,257.94,62,Supplier_A
+1090,Nova Product 1090,Beauty,StyleHub,2259.04,1371.79,542,Supplier_D
+1091,UrbanX Product 1091,Automotive,UrbanX,1242.73,969.91,15,Supplier_C
+1092,PrimeChoice Product 1092,Accessories,DailyNeeds,2556.36,1663.89,220,Supplier_D
+1093,Nova Product 1093,Home & Kitchen,TechPro,1852.69,1478.07,216,Supplier_D
+1094,TechPro Product 1094,electronics,PrimeChoice,715.95,548.63,423,Supplier_E
+1095,PrimeChoice Product 1095,Fashion,HomeEase,281.02,167.33,234,Supplier_E
+1096,PrimeChoice Product 1096,Sports,TechPro,1495.28,776.4,717,Supplier_E
+1097,Elite Product 1097,Grocery,DailyNeeds,1304.63,884.38,701,Supplier_A
+1098,Elite Product 1098,Accessories,TechPro,,2007.51,802,Supplier_B
+1099,PrimeChoice Product 1099,Sports,FitLife,6524.05,3648.55,876,Supplier_A
+1100,UrbanX Product 1100,Grocery,SmartBuy,3010.03,1425.42,946,Supplier_C
+1101,Nova Product 1101,Fashion,PrimeChoice,-100.0,2027.54,98,Supplier_B
+1102,HomeEase Product 1102,Toys,DailyNeeds,2313.74,1048.94,726,Supplier_D
+1103,TechPro Product 1103,Sports,UrbanX,1867.47,1218.82,882,Supplier_B
+1104,HomeEase Product 1104,Beauty,FitLife,2160.21,1546.81,800,Supplier_E
+1105,DailyNeeds Product 1105,Home & Kitchen,HomeEase,2572.73,1971.34,285,Supplier_D
+1106,TechPro Product 1106,electronics,UrbanX,206.43,101.69,607,Supplier_E
+1107,PrimeChoice Product 1107,Home & Kitchen,Nova,1381.47,1034.19,170,Supplier_B
+1108,DailyNeeds Product 1108,Sports,DailyNeeds,1432.91,873.43,225,Supplier_C
+1109,UrbanX Product 1109,Electronics,StyleHub,2535.6,1446.5,105,Supplier_B
+1110,StyleHub Product 1110,Fashion,Nova,2567.28,2069.24,177,Supplier_B
+1111,TechPro Product 1111,Fashion,DailyNeeds,330.73,260.6,262,Supplier_D
+1112,FitLife Product 1112,Electronics,HomeEase,2288.07,1090.16,598,Supplier_D
+1113,DailyNeeds Product 1113,Grocery,HomeEase,722.59,495.41,353,Supplier_E
+1114,FitLife Product 1114,Toys,UrbanX,620.86,493.59,583,Supplier_C
+1115,PrimeChoice Product 1115,Toys,PrimeChoice,1526.24,1125.41,818,Supplier_C
+1116,Nova Product 1116,Grocery,StyleHub,1547.82,1157.16,907,Supplier_C
+1117,TechPro Product 1117,Sports,DailyNeeds,1386.89,798.97,159,Supplier_E
+1118,Nova Product 1118,Toys,HomeEase,204.14,145.0,558,Supplier_E
+1119,SmartBuy Product 1119,Home & Kitchen,TechPro,1308.0,858.29,887,Supplier_D
+1120,Nova Product 1120,Electronics,Nova,1019.06,744.63,404,Supplier_A
+1121,DailyNeeds Product 1121,Grocery,UrbanX,790.39,482.85,828,Supplier_C
+1122,DailyNeeds Product 1122,Grocery,StyleHub,359.97,198.2,708,Supplier_E
+1123,StyleHub Product 1123,Home & Kitchen,TechPro,2161.77,1209.54,29,Supplier_B
+1124,UrbanX Product 1124,Books,DailyNeeds,601.37,443.75,528,Supplier_E
+1125,SmartBuy Product 1125,Home & Kitchen,PrimeChoice,613.9,362.78,139,Supplier_D
+1126,Nova Product 1126,Sports,DailyNeeds,4620.29,3390.46,593,Supplier_D
+1127,Elite Product 1127,Automotive,FitLife,424.27,276.67,0,Supplier_B
+1128,Elite Product 1128,Toys,Nova,3933.56,1855.15,774,Supplier_E
+1129,TechPro Product 1129,Sports,FitLife,4787.68,2522.33,565,Supplier_D
+1130,Elite Product 1130,Electronics,DailyNeeds,1673.96,905.49,670,Supplier_B
+1131,TechPro Product 1131,Electronic,StyleHub,1716.41,852.86,606,Supplier_A
+1132,SmartBuy Product 1132,Books,PrimeChoice,2453.03,1803.36,444,Supplier_D
+1133,PrimeChoice Product 1133,Grocery,TechPro,4241.34,2412.18,487,Supplier_A
+1134,UrbanX Product 1134,Home & Kitchen,PrimeChoice,1490.63,1138.08,402,Supplier_E
+1135,TechPro Product 1135,Electronic,TechPro,900.44,669.82,839,Supplier_A
+1136,StyleHub Product 1136,Fashion,SmartBuy,851.68,480.78,132,Supplier_C
+1137,HomeEase Product 1137,Accessories,PrimeChoice,1854.82,1314.73,424,Supplier_C
+1138,HomeEase Product 1138,Sports,Elite,825.35,670.58,716,Supplier_D
+1139,StyleHub Product 1139,Fashion,StyleHub,1440.81,1039.05,56,Supplier_A
+1140,DailyNeeds Product 1140,Automotive,UrbanX,1618.3,909.4,228,Supplier_B
+1141,SmartBuy Product 1141,Books,DailyNeeds,4001.71,2473.22,628,Supplier_D
+1142,DailyNeeds Product 1142,Automotive,HomeEase,1970.88,1425.01,558,Supplier_A
+1143,StyleHub Product 1143,Home & Kitchen, TechPro ,1485.0,1160.54,547,Supplier_C
+1144,UrbanX Product 1144,Beauty,Nova,624.78,303.67,259,Supplier_E
+1145,DailyNeeds Product 1145,Fashion,HomeEase,1978.27,1488.15,296,Supplier_B
+1146,DailyNeeds Product 1146,Automotive,FitLife,1007.83,551.24,642,Supplier_D
+1147,Nova Product 1147,Grocery,Nova,1879.63,1483.23,298,Supplier_B
+1148,SmartBuy Product 1148,Fashion,FitLife,2008.35,1308.53,699,Supplier_C
+1149,HomeEase Product 1149,Grocery,PrimeChoice,884.21,437.54,446,Supplier_B
+1150,HomeEase Product 1150,Fashion,StyleHub,838.62,439.78,51,Supplier_A
+1151,HomeEase Product 1151,Fashion,FitLife,1632.61,1071.35,968,Supplier_B
+1152,StyleHub Product 1152,Sports,DailyNeeds,1403.07,745.27,122,Supplier_A
+1153,PrimeChoice Product 1153,Toys,TechPro,943.06,573.26,184,Supplier_D
+1154,HomeEase Product 1154,Automotive,PrimeChoice,636.56,418.15,261,Supplier_A
+1155,PrimeChoice Product 1155,Beauty,PrimeChoice,1514.92,1208.81,286,Supplier_C
+1156,FitLife Product 1156,Books,DailyNeeds,2701.08,1524.51,404,Supplier_B
+1157,SmartBuy Product 1157,Toys,Nova,2004.51,1428.86,111,Supplier_B
+1158,TechPro Product 1158,Grocery,FitLife,2482.12,1998.01,843,Supplier_B
+1159,DailyNeeds Product 1159,Accessories,StyleHub,1265.24,905.04,469,Supplier_B
+1160,FitLife Product 1160,Automotive,Elite,1798.77,1414.57,731,Supplier_E
+1161,FitLife Product 1161,Fashion,SmartBuy,1161.19,778.02,136,Supplier_C
+1162,FitLife Product 1162,Accessories,Elite,2199.69,1078.87,351,Supplier_D
+1163,Nova Product 1163,electronics,StyleHub,1339.15,654.67,673,Supplier_D
+1164,Nova Product 1164,Beauty,TechPro,1718.66,1173.74,385,Supplier_B
+1165,Elite Product 1165,Books,StyleHub,1297.66,615.79,814,Supplier_E
+1166,DailyNeeds Product 1166,electronics,StyleHub,10631.39,5528.55,587,Supplier_E
+1167,StyleHub Product 1167,Fashion,PrimeChoice,2108.46,1073.62,240,Supplier_B
+1168,Nova Product 1168,Grocery,UrbanX,1607.72,1136.51,766,Supplier_C
+1169,HomeEase Product 1169,Books,DailyNeeds,362.3,227.36,929,Supplier_E
+1170,SmartBuy Product 1170,Fashion,Elite,4487.02,2202.6,78,Supplier_A
+1171,TechPro Product 1171,Fashion,PrimeChoice,267.36,201.84,337,Supplier_B
+1172,FitLife Product 1172,Books,SmartBuy,2749.71,1753.88,626,Supplier_C
+1173,Nova Product 1173,Electronics,Nova,1450.41,931.75,777,Supplier_D
+1174,UrbanX Product 1174,Home & Kitchen,FitLife,,469.21,844,Supplier_C
+1175,SmartBuy Product 1175,Accessories,PrimeChoice,523.57,240.63,958,Supplier_B
+1176,DailyNeeds Product 1176,Toys,Elite,852.69,439.27,674,Supplier_E
+1177,TechPro Product 1177,Toys, TechPro ,1839.97,1002.77,36,Supplier_A
+1178,DailyNeeds Product 1178,Automotive,SmartBuy,,633.29,541,Supplier_C
+1179,FitLife Product 1179,Fashion,Nova,1615.46,964.88,9,Supplier_E
+1180,StyleHub Product 1180,Home & Kitchen,FitLife,1800.39,1247.34,358,Supplier_B
+1181,SmartBuy Product 1181,Grocery,UrbanX,1012.55,587.26,291,Supplier_A
+1182,SmartBuy Product 1182,Toys,DailyNeeds,1201.5,667.08,917,Supplier_E
+1183,FitLife Product 1183,Books,SmartBuy,3747.36,1725.33,111,Supplier_E
+1184,PrimeChoice Product 1184,Books,DailyNeeds,4315.05,2541.55,663,Supplier_D
+1185,FitLife Product 1185,Automotive,StyleHub,1304.48,864.2,122,Supplier_C
+1186,HomeEase Product 1186,Electronics,PrimeChoice,377.81,177.99,655,Supplier_D
+1187,Elite Product 1187,Automotive,FitLife,2845.04,1776.16,109,Supplier_E
+1188,FitLife Product 1188,Accessories,SmartBuy,,3272.32,107,Supplier_B
+1189,SmartBuy Product 1189,Automotive,PrimeChoice,,600.37,479,Supplier_A
+1190,PrimeChoice Product 1190,Electronics,Nova,3299.44,2349.96,805,Supplier_C
+1191,HomeEase Product 1191,Accessories,PrimeChoice,700.33,329.84,443,Supplier_C
+1192,Elite Product 1192,Sports,SmartBuy,1212.81,569.97,645,Supplier_D
+1193,PrimeChoice Product 1193,Home & Kitchen,DailyNeeds,585.24,459.86,157,Supplier_B
+1194,StyleHub Product 1194,Accessories,UrbanX,705.06,546.97,188,Supplier_C
+1195,DailyNeeds Product 1195,Grocery,UrbanX,1889.99,1221.79,552,Supplier_A
+1196,SmartBuy Product 1196,Accessories,SmartBuy,336.12,151.42,134,Supplier_D
+1197,HomeEase Product 1197,Accessories,StyleHub,1012.27,805.79,-5,Supplier_E
+1198,Elite Product 1198,Accessories,SmartBuy,5177.04,2455.7,729,Supplier_C
+1199,StyleHub Product 1199,Electronics,SmartBuy,2196.2,1215.85,66,Supplier_D
+1200,StyleHub Product 1200,Books,FitLife,1509.17,795.47,461,Supplier_B
+1201,StyleHub Product 1201,Grocery,Elite,591.63,389.39,829,Supplier_C
+1202,DailyNeeds Product 1202,Toys,StyleHub,548.82,285.93,268,Supplier_D
+1203,TechPro Product 1203,Automotive,FitLife,3853.9,2983.3,44,Supplier_E
+1204,Nova Product 1204,Sports,StyleHub,229.91,168.43,449,Supplier_D
+1205,UrbanX Product 1205,Accessories,SmartBuy,180.45,96.77,767,Supplier_E
+1206,HomeEase Product 1206,Books,Elite,1081.47,818.81,426,Supplier_A
+1207,PrimeChoice Product 1207,Accessories,FitLife,999999.0,907.31,994,Supplier_B
+1208,FitLife Product 1208,Accessories,Elite,493.43,235.72,244,Supplier_B
+1209,UrbanX Product 1209,Toys,SmartBuy,1639.36,793.75,609,Supplier_A
+1210,SmartBuy Product 1210,Accessories,FitLife,1363.05,639.86,732,Supplier_B
+1211,SmartBuy Product 1211,Sports,FitLife,1142.12,846.8,78,Supplier_B
+1212,HomeEase Product 1212,Home & Kitchen,DailyNeeds,620.21,434.45,818,Supplier_D
+1213,FitLife Product 1213,Beauty,FitLife,950.77,619.66,170,Supplier_B
+1214,Nova Product 1214,Books,UrbanX,2090.76,1120.48,24,Supplier_C
+1215,UrbanX Product 1215,Accessories,StyleHub,1791.58,1198.93,923,Supplier_E
+1216,PrimeChoice Product 1216,Sports,UrbanX,3746.39,2968.02,812,Supplier_A
+1217,StyleHub Product 1217,Beauty, TechPro ,5881.31,4798.18,818,Supplier_E
+1218,PrimeChoice Product 1218,Fashion,TechPro,5411.12,3470.14,387,Supplier_D
+1219,DailyNeeds Product 1219,Sports,SmartBuy,905.46,600.53,624,Supplier_A
+1220,HomeEase Product 1220,Grocery,HomeEase,1248.26,957.11,280,Supplier_D
+1221,StyleHub Product 1221,Electronics,DailyNeeds,,237.88,208,Supplier_A
+1222,Elite Product 1222,Fashion,TechPro,1057.29,674.51,545,Supplier_E
+1223,PrimeChoice Product 1223,Fashion, TechPro ,2018.11,1204.68,205,Supplier_D
+1224,Elite Product 1224,Fashion,PrimeChoice,3077.89,1896.63,724,Supplier_E
+1225,Elite Product 1225,Sports,Elite,2055.88,1325.64,419,Supplier_E
+1226,SmartBuy Product 1226,Grocery,UrbanX,615.76,479.59,205,Supplier_D
+1227,DailyNeeds Product 1227,Books,UrbanX,802.98,534.46,942,Supplier_C
+1228,TechPro Product 1228,electronics,FitLife,3466.66,2804.5,294,Supplier_B
+1229,PrimeChoice Product 1229,Automotive,StyleHub,897.63,689.74,422,Supplier_B
+1230,UrbanX Product 1230,Electronic,PrimeChoice,-100.0,345.93,662,Supplier_C
+1231,UrbanX Product 1231,Home & Kitchen,UrbanX,4383.56,2844.43,725,Supplier_D
+1232,Elite Product 1232,Grocery,FitLife,821.85,576.38,977,Supplier_E
+1233,Nova Product 1233,Sports,Nova,350.43,280.74,568,Supplier_D
+1234,PrimeChoice Product 1234,Fashion,Elite,641.73,469.49,434,Supplier_E
+1235,TechPro Product 1235,Beauty,PrimeChoice,1708.07,1159.68,603,Supplier_B
+1236,HomeEase Product 1236,Fashion,Nova,944.28,606.63,738,Supplier_E
+1237,SmartBuy Product 1237,Electronics,Elite,730.44,595.44,879,Supplier_D
+1238,UrbanX Product 1238,Sports,PrimeChoice,3927.99,2611.82,887,Supplier_C
+1239,StyleHub Product 1239,Toys,TechPro,3992.46,1997.51,7,Supplier_B
+1240,DailyNeeds Product 1240,Electronics,FitLife,1709.83,861.13,788,Supplier_C
+1241,PrimeChoice Product 1241,Fashion,SmartBuy,667.0,498.23,692,Supplier_E
+1242,FitLife Product 1242,Fashion,StyleHub,381.24,305.12,852,Supplier_E
+1243,HomeEase Product 1243,Books,DailyNeeds,1988.06,1606.02,365,Supplier_D
+1244,PrimeChoice Product 1244,Books,TechPro,1107.85,743.49,402,Supplier_A
+1245,DailyNeeds Product 1245,Sports,UrbanX,1762.31,1190.28,177,Supplier_B
+1246,DailyNeeds Product 1246,Grocery,FitLife,660.74,391.99,590,Supplier_B
+1247,StyleHub Product 1247,Beauty,SmartBuy,1294.69,896.31,754,Supplier_B
+1248,TechPro Product 1248,Fashion,FitLife,2610.12,1184.12,30,Supplier_E
+1249,DailyNeeds Product 1249,Fashion,TechPro,1723.94,780.16,541,Supplier_B
+1250,Elite Product 1250,Beauty,DailyNeeds,462.55,214.52,410,Supplier_B
+1251,SmartBuy Product 1251,Toys,StyleHub,2001.05,1380.36,333,Supplier_C
+1252,FitLife Product 1252,Toys,Nova,,496.14,854,Supplier_E
+1253,Elite Product 1253,Sports,SmartBuy,3188.67,2501.43,992,Supplier_A
+1254,PrimeChoice Product 1254,Toys,Elite,675.7,400.12,953,Supplier_D
+1255,UrbanX Product 1255,Books,UrbanX,4529.16,3198.11,375,Supplier_A
+1256,TechPro Product 1256,Accessories,TechPro,614.25,355.31,750,Supplier_D
+1257,Nova Product 1257,Grocery,UrbanX,6626.32,3976.79,314,Supplier_D
+1258,PrimeChoice Product 1258,Grocery,Elite,2544.53,1683.83,712,Supplier_E
+1259,StyleHub Product 1259,Grocery,TechPro,2772.35,2156.19,366,Supplier_C
+1260,PrimeChoice Product 1260,Books,SmartBuy,4149.58,2612.6,825,Supplier_B
+1261,HomeEase Product 1261,Automotive,StyleHub,604.45,484.43,445,Supplier_D
+1262,UrbanX Product 1262,electronics,HomeEase,643.65,336.52,355,Supplier_C
+1263,SmartBuy Product 1263,Electronics,FitLife,1304.85,627.4,104,Supplier_D
+1264,StyleHub Product 1264,Grocery,Elite,924.99,586.96,858,Supplier_C
+1265,StyleHub Product 1265,Toys,HomeEase,973.72,523.88,51,Supplier_B
+1266,SmartBuy Product 1266,Fashion,SmartBuy,930.27,670.95,600,Supplier_B
+1267,UrbanX Product 1267,Grocery,HomeEase,1465.0,766.83,369,Supplier_D
+1268,PrimeChoice Product 1268,Automotive,TechPro,1197.57,705.64,596,Supplier_D
+1269,Nova Product 1269,Automotive,PrimeChoice,659.09,511.59,430,Supplier_A
+1270,TechPro Product 1270,Home & Kitchen,UrbanX,2080.07,1480.94,40,Supplier_B
+1271,FitLife Product 1271,Beauty,FitLife,1024.63,691.55,952,Supplier_E
+1272,TechPro Product 1272,Sports,TechPro,607.6,283.5,708,Supplier_E
+1273,UrbanX Product 1273,Sports,StyleHub,426.29,276.2,719,Supplier_E
+1274,UrbanX Product 1274,Electronics,PrimeChoice,,2643.25,73,Supplier_E
+1275,Elite Product 1275,Grocery,UrbanX,715.01,453.59,120,Supplier_B
+1276,FitLife Product 1276,Electronic,DailyNeeds,1892.25,1105.37,599,Supplier_D
+1277,FitLife Product 1277,Electronics,SmartBuy,682.19,507.33,850,Supplier_D
+1278,Elite Product 1278,Beauty,SmartBuy,735.64,431.45,523,Supplier_B
+1279,FitLife Product 1279,Home & Kitchen,TechPro,1297.18,997.8,317,Supplier_E
+1280,TechPro Product 1280,Toys,Elite,1021.18,533.87,287,Supplier_E
+1281,StyleHub Product 1281,Books,StyleHub,692.88,372.68,172,Supplier_C
+1282,TechPro Product 1282,Grocery,PrimeChoice,997.66,715.84,74,Supplier_E
+1283,UrbanX Product 1283,Automotive,UrbanX,888.23,672.51,555,Supplier_C
+1284,HomeEase Product 1284,Accessories,FitLife,1429.8,757.4,823,Supplier_C
+1285,UrbanX Product 1285,Beauty,HomeEase,1467.03,758.39,810,Supplier_A
+1286,TechPro Product 1286,Grocery,TechPro,2622.57,1278.49,800,Supplier_A
+1287,TechPro Product 1287,Fashion,UrbanX,603.69,356.18,522,Supplier_E
+1288,SmartBuy Product 1288,Sports,StyleHub,807.86,651.01,-5,Supplier_B
+1289,DailyNeeds Product 1289,Toys,PrimeChoice,703.42,529.06,839,Supplier_A
+1290,StyleHub Product 1290,Home & Kitchen,Elite,2115.26,1703.23,576,Supplier_D
+1291,HomeEase Product 1291,Accessories,StyleHub,1594.09,1295.55,250,Supplier_D
+1292,SmartBuy Product 1292,Grocery,DailyNeeds,414.16,278.43,488,Supplier_E
+1293,Nova Product 1293,Electronics,UrbanX,633.93,397.53,9,Supplier_A
+1294,DailyNeeds Product 1294,Electronics,FitLife,1031.06,680.08,738,Supplier_B
+1295,Nova Product 1295,Books,UrbanX,1623.98,1325.44,730,Supplier_E
+1296,TechPro Product 1296,Fashion,Nova,1221.06,672.85,27,Supplier_B
+1297,UrbanX Product 1297,Automotive,HomeEase,752.33,339.15,867,Supplier_D
+1298,Elite Product 1298,Fashion,DailyNeeds,1484.37,1157.86,788,Supplier_E
+1299,SmartBuy Product 1299,Toys,UrbanX,9639.77,4469.53,287,Supplier_C
+1300,Elite Product 1300,Beauty,DailyNeeds,2211.72,1038.1,326,Supplier_B
+1301,UrbanX Product 1301,Books,PrimeChoice,709.46,538.02,668,Supplier_C
+1302,DailyNeeds Product 1302,electronics,SmartBuy,994.44,516.2,152,Supplier_D
+1303,PrimeChoice Product 1303,Books,DailyNeeds,1800.3,1157.73,575,Supplier_E
+1304,Elite Product 1304,Electronics,TechPro,1853.57,1001.88,92,Supplier_D
+1305,DailyNeeds Product 1305,Books,Elite,976.7,580.59,547,Supplier_C
+1306,UrbanX Product 1306,Beauty,FitLife,845.64,603.15,9,Supplier_E
+1307,HomeEase Product 1307,Beauty,UrbanX,1034.56,781.97,284,Supplier_C
+1308,TechPro Product 1308,Home & Kitchen,HomeEase,720.33,549.95,460,Supplier_E
+1309,SmartBuy Product 1309,Fashion,DailyNeeds,329.88,204.29,576,Supplier_D
+1310,SmartBuy Product 1310,Beauty,StyleHub,3150.73,1996.67,95,Supplier_E
+1311,TechPro Product 1311,Electronics,Nova,485.74,342.94,827,Supplier_E
+1312,UrbanX Product 1312,Fashion,SmartBuy,2053.28,1571.91,972,Supplier_C
+1313,DailyNeeds Product 1313,Electronics,PrimeChoice,2152.0,1477.73,830,Supplier_D
+1314,Elite Product 1314,Sports,TechPro,1723.01,1294.63,673,Supplier_E
+1315,TechPro Product 1315,Electronics,FitLife,2211.47,1593.77,396,Supplier_E
+1316,TechPro Product 1316,Fashion,PrimeChoice,1692.9,1153.21,459,Supplier_B
+1317,Elite Product 1317,Accessories,DailyNeeds,1799.59,1330.34,588,Supplier_C
+1318,HomeEase Product 1318,Fashion,FitLife,898.63,622.15,418,Supplier_D
+1319,Nova Product 1319,Beauty,DailyNeeds,623.58,407.69,527,Supplier_E
+1320,HomeEase Product 1320,Toys,Elite,998.69,692.27,841,Supplier_C
+1321,TechPro Product 1321,Sports,Elite,2897.94,2346.34,682,Supplier_B
+1322,UrbanX Product 1322,Sports,HomeEase,-100.0,970.6,807,Supplier_B
+1323,PrimeChoice Product 1323,Fashion,StyleHub,891.18,688.46,506,Supplier_E
+1324,UrbanX Product 1324,Fashion,PrimeChoice,1272.79,912.18,218,Supplier_B
+1325,StyleHub Product 1325,Sports,TechPro,6992.6,4269.07,361,Supplier_C
+1326,Nova Product 1326,Toys,Elite,897.28,437.92,581,Supplier_A
+1327,PrimeChoice Product 1327,Sports,DailyNeeds,,1021.89,411,Supplier_C
+1328,FitLife Product 1328,Home & Kitchen,TechPro,2022.74,1014.02,73,Supplier_D
+1329,DailyNeeds Product 1329,Electronics,SmartBuy,1198.75,620.45,589,Supplier_B
+1330,UrbanX Product 1330,Home & Kitchen,UrbanX,1338.75,798.56,342,Supplier_A
+1331,TechPro Product 1331,Grocery,TechPro,799.6,644.63,769,Supplier_A
+1332,StyleHub Product 1332,Books,HomeEase,2805.05,2042.65,946,Supplier_B
+1333,Elite Product 1333,Books,Elite,2525.6,1679.95,514,Supplier_D
+1334,SmartBuy Product 1334,Books,TechPro,4503.74,2224.78,161,Supplier_B
+1335,FitLife Product 1335,Electronics,PrimeChoice,,368.77,414,Supplier_E
+1336,Elite Product 1336,Beauty,SmartBuy,4674.34,3070.37,958,Supplier_B
+1337,SmartBuy Product 1337,Grocery,SmartBuy,947.05,541.7,811,Supplier_B
+1338,UrbanX Product 1338,Accessories,SmartBuy,999999.0,1672.19,815,Supplier_E
+1339,TechPro Product 1339,Toys,StyleHub,933.56,561.72,314,Supplier_A
+1340,StyleHub Product 1340,Fashion,SmartBuy,1609.66,1128.65,-5,Supplier_B
+1341,DailyNeeds Product 1341,Books,HomeEase,670.08,506.76,658,Supplier_B
+1342,UrbanX Product 1342,Accessories,FitLife,1865.51,1500.29,543,Supplier_D
+1343,HomeEase Product 1343,Beauty,DailyNeeds,999999.0,391.48,86,Supplier_D
+1344,FitLife Product 1344,Electronics,UrbanX,-100.0,737.75,197,Supplier_D
+1345,UrbanX Product 1345,Fashion,Elite,-100.0,367.04,126,Supplier_C
+1346,Elite Product 1346,Toys,PrimeChoice,7563.72,5140.27,471,Supplier_E
+1347,Elite Product 1347,Fashion,SmartBuy,695.24,365.35,227,Supplier_C
+1348,Nova Product 1348,Automotive,TechPro,2238.91,1253.33,587,Supplier_B
+1349,FitLife Product 1349,Grocery,TechPro,690.07,468.81,350,Supplier_D
+1350,FitLife Product 1350,Grocery,FitLife,998.18,675.53,32,Supplier_C
+1351,Nova Product 1351,Home & Kitchen,SmartBuy,326.01,243.36,205,Supplier_E
+1352,DailyNeeds Product 1352,Toys,UrbanX,3198.23,2330.28,784,Supplier_C
+1353,HomeEase Product 1353,Fashion,Elite,1524.16,1023.95,747,Supplier_B
+1354,TechPro Product 1354,Automotive,HomeEase,751.4,366.59,403,Supplier_A
+1355,SmartBuy Product 1355,Toys,TechPro,3053.8,2200.82,675,Supplier_C
+1356,UrbanX Product 1356,Sports,HomeEase,244.89,121.37,-5,Supplier_B
+1357,TechPro Product 1357,Accessories,StyleHub,631.95,286.92,280,Supplier_E
+1358,UrbanX Product 1358,Toys,StyleHub,1341.65,743.3,223,Supplier_E
+1359,SmartBuy Product 1359,Accessories,StyleHub,1153.74,825.06,435,Supplier_D
+1360,PrimeChoice Product 1360,Sports,UrbanX,2254.74,1315.97,425,Supplier_B
+1361,DailyNeeds Product 1361,Fashion,Elite,1223.07,881.06,213,Supplier_C
+1362,SmartBuy Product 1362,Electronics,TechPro,2161.96,1334.07,432,Supplier_C
+1363,StyleHub Product 1363,Automotive,HomeEase,1927.66,1529.26,488,Supplier_A
+1364,SmartBuy Product 1364,Sports,Nova,5397.61,4392.49,919,Supplier_D
+1365,SmartBuy Product 1365,Beauty,Nova,783.59,609.51,78,Supplier_E
+1366,UrbanX Product 1366,Accessories,UrbanX,2315.32,1301.54,859,Supplier_B
+1367,HomeEase Product 1367,Toys,Elite,620.79,318.29,639,Supplier_E
+1368,SmartBuy Product 1368,Beauty,Elite,1005.46,602.44,879,Supplier_A
+1369,PrimeChoice Product 1369,Home & Kitchen,UrbanX,600.74,442.68,943,Supplier_A
+1370,StyleHub Product 1370,Automotive,PrimeChoice,838.39,571.1,259,Supplier_D
+1371,StyleHub Product 1371,Fashion,PrimeChoice,642.55,446.45,902,Supplier_A
+1372,StyleHub Product 1372,Automotive,PrimeChoice,,973.62,262,Supplier_A
+1373,Nova Product 1373,Accessories,DailyNeeds,1542.54,986.63,759,Supplier_B
+1374,HomeEase Product 1374,Home & Kitchen,Nova,330.62,201.51,270,Supplier_C
+1375,FitLife Product 1375,Books,HomeEase,1355.74,1017.63,281,Supplier_A
+1376,TechPro Product 1376,electronics,TechPro,1609.8,915.36,-5,Supplier_E
+1377,Elite Product 1377,Accessories,SmartBuy,831.13,599.68,493,Supplier_A
+1378,UrbanX Product 1378,Beauty,Nova,980.59,803.4,157,Supplier_D
+1379,DailyNeeds Product 1379,Beauty,TechPro,3791.86,2956.95,319,Supplier_E
+1380,FitLife Product 1380,Home & Kitchen,Elite,2066.24,1492.83,964,Supplier_A
+1381,TechPro Product 1381,Fashion,FitLife,1195.18,568.79,269,Supplier_E
+1382,HomeEase Product 1382,Automotive,PrimeChoice,740.9,496.15,970,Supplier_E
+1383,PrimeChoice Product 1383,Accessories,Elite,1544.4,1176.94,988,Supplier_B
+1384,SmartBuy Product 1384,Electronics,StyleHub,2818.61,1617.54,833,Supplier_A
+1385,DailyNeeds Product 1385,Sports,FitLife,646.73,356.3,669,Supplier_C
+1386,HomeEase Product 1386,Books,UrbanX,5015.08,3529.42,703,Supplier_D
+1387,TechPro Product 1387,Automotive, TechPro ,901.96,503.82,734,Supplier_E
+1388,Nova Product 1388,Automotive,SmartBuy,440.98,344.93,907,Supplier_D
+1389,DailyNeeds Product 1389,Fashion,StyleHub,290.59,178.34,715,Supplier_B
+1390,Nova Product 1390,Electronic,UrbanX,769.36,493.3,778,Supplier_C
+1391,StyleHub Product 1391,Beauty,FitLife,443.61,280.36,410,Supplier_A
+1392,Nova Product 1392,Electronics,DailyNeeds,1503.22,1208.28,149,Supplier_B
+1393,PrimeChoice Product 1393,Sports,Nova,1669.77,1287.59,517,Supplier_A
+1394,TechPro Product 1394,Electronics,FitLife,1964.79,1099.12,125,Supplier_B
+1395,Nova Product 1395,Books,StyleHub,886.9,643.1,727,Supplier_E
+1396,SmartBuy Product 1396,Books,SmartBuy,412.9,245.33,530,Supplier_B
+1397,UrbanX Product 1397,Grocery,PrimeChoice,357.78,174.17,723,Supplier_D
+1398,UrbanX Product 1398,Automotive,PrimeChoice,894.55,609.32,994,Supplier_D
+1399,FitLife Product 1399,Toys,HomeEase,578.82,262.46,868,Supplier_D
+1400,HomeEase Product 1400,Books,HomeEase,2219.28,1163.54,445,Supplier_C
+1401,PrimeChoice Product 1401,Toys,HomeEase,673.12,340.11,528,Supplier_B
+1402,FitLife Product 1402,Fashion,UrbanX,3313.76,1894.88,294,Supplier_C
+1403,StyleHub Product 1403,Automotive,UrbanX,,882.56,482,Supplier_A
+1404,UrbanX Product 1404,Beauty,UrbanX,825.91,610.24,317,Supplier_B
+1405,Elite Product 1405,Home & Kitchen,StyleHub,2182.54,1238.61,82,Supplier_A
+1406,Elite Product 1406,Home & Kitchen,PrimeChoice,574.84,400.07,436,Supplier_B
+1407,TechPro Product 1407,Accessories,Nova,522.07,254.0,878,Supplier_B
+1408,PrimeChoice Product 1408,Toys,UrbanX,4714.65,3315.11,78,Supplier_B
+1409,HomeEase Product 1409,Beauty,HomeEase,2355.27,1302.24,922,Supplier_C
+1410,HomeEase Product 1410,Grocery,FitLife,716.43,520.6,823,Supplier_C
+1411,Nova Product 1411,Grocery,DailyNeeds,453.91,355.01,724,Supplier_C
+1412,UrbanX Product 1412,Books,Nova,864.9,488.77,573,Supplier_E
+1413,PrimeChoice Product 1413,Electronics,Nova,1070.78,485.76,957,Supplier_A
+1414,Nova Product 1414,Grocery,HomeEase,2971.3,2135.53,251,Supplier_A
+1415,TechPro Product 1415,Accessories,PrimeChoice,2093.65,1284.73,568,Supplier_E
+1416,Nova Product 1416,Automotive,Elite,405.63,263.23,477,Supplier_C
+1417,Elite Product 1417,Toys,DailyNeeds,1432.31,800.73,981,Supplier_C
+1418,SmartBuy Product 1418,Accessories,FitLife,1531.91,901.0,156,Supplier_B
+1419,HomeEase Product 1419,Grocery,TechPro,896.27,451.13,589,Supplier_A
+1420,Nova Product 1420,Books,FitLife,584.3,294.27,179,Supplier_B
+1421,PrimeChoice Product 1421,Sports, TechPro ,5341.3,2566.73,719,Supplier_A
+1422,Elite Product 1422,Automotive,Elite,848.38,554.92,717,Supplier_D
+1423,Elite Product 1423,electronics,PrimeChoice,2622.4,1406.17,720,Supplier_A
+1424,Nova Product 1424,Grocery,DailyNeeds,,259.65,900,Supplier_B
+1425,UrbanX Product 1425,Grocery,Nova,2103.98,1196.01,982,Supplier_C
+1426,HomeEase Product 1426,Automotive,Elite,2189.33,1017.68,237,Supplier_B
+1427,FitLife Product 1427,Electronics,FitLife,1711.21,1195.87,398,Supplier_B
+1428,DailyNeeds Product 1428,Automotive,DailyNeeds,1184.57,535.21,230,Supplier_E
+1429,UrbanX Product 1429,electronics,UrbanX,999999.0,908.98,949,Supplier_B
+1430,SmartBuy Product 1430,Sports,PrimeChoice,1749.82,1201.96,963,Supplier_C
+1431,PrimeChoice Product 1431,Automotive,UrbanX,2054.12,1459.69,914,Supplier_C
+1432,Nova Product 1432,Toys,StyleHub,6710.81,4782.48,132,Supplier_D
+1433,Nova Product 1433,Fashion,Elite,688.78,456.28,285,Supplier_B
+1434,StyleHub Product 1434,electronics,UrbanX,1376.11,747.2,722,Supplier_B
+1435,StyleHub Product 1435,Accessories,Nova,319.13,148.73,385,Supplier_E
+1436,TechPro Product 1436,Accessories,DailyNeeds,3846.77,2329.07,661,Supplier_E
+1437,Elite Product 1437,Home & Kitchen,FitLife,3659.76,2438.14,816,Supplier_C
+1438,Nova Product 1438,Beauty,SmartBuy,488.28,366.47,155,Supplier_A
+1439,SmartBuy Product 1439,Books,TechPro,503.63,366.84,115,Supplier_A
+1440,DailyNeeds Product 1440,Books,HomeEase,1693.61,991.86,642,Supplier_B
+1441,UrbanX Product 1441,Home & Kitchen,DailyNeeds,2678.82,1414.35,819,Supplier_B
+1442,Elite Product 1442,Beauty,SmartBuy,2509.23,1724.51,157,Supplier_D
+1443,FitLife Product 1443,Electronic,TechPro,658.54,428.48,638,Supplier_A
+1444,SmartBuy Product 1444,Electronic,HomeEase,6157.02,4037.67,238,Supplier_B
+1445,Elite Product 1445,Electronics,Elite,830.54,635.46,730,Supplier_E
+1446,FitLife Product 1446,Sports,DailyNeeds,5377.91,3893.38,538,Supplier_C
+1447,TechPro Product 1447,Automotive,Elite,355.06,192.78,474,Supplier_A
+1448,Elite Product 1448,Electronic,DailyNeeds,482.86,353.74,556,Supplier_D
+1449,Nova Product 1449,Books,Elite,548.27,441.33,89,Supplier_D
+1450,Elite Product 1450,Toys,FitLife,975.67,521.16,565,Supplier_E
+1451,FitLife Product 1451,Grocery,Elite,989.23,593.64,646,Supplier_D
+1452,Nova Product 1452,Electronic,Nova,1568.34,1194.0,894,Supplier_E
+1453,FitLife Product 1453,Grocery,DailyNeeds,343.07,245.28,991,Supplier_E
+1454,Elite Product 1454,Home & Kitchen,TechPro,449.91,230.02,8,Supplier_B
+1455,Elite Product 1455,Toys,PrimeChoice,726.65,438.5,258,Supplier_E
+1456,TechPro Product 1456,Grocery,FitLife,,318.43,87,Supplier_B
+1457,SmartBuy Product 1457,Electronics,TechPro,3522.83,2829.43,186,Supplier_B
+1458,UrbanX Product 1458,Electronics,SmartBuy,1791.98,863.24,277,Supplier_B
+1459,FitLife Product 1459,Beauty,StyleHub,3697.86,2151.77,99,Supplier_A
+1460,Elite Product 1460,Automotive,HomeEase,1610.49,810.18,637,Supplier_C
+1461,PrimeChoice Product 1461,Automotive, TechPro ,2069.35,994.32,193,Supplier_C
+1462,StyleHub Product 1462,Fashion,Elite,212.19,150.63,625,Supplier_A
+1463,FitLife Product 1463,Accessories,DailyNeeds,696.34,396.58,57,Supplier_D
+1464,UrbanX Product 1464,Home & Kitchen,StyleHub,1170.76,756.95,935,Supplier_A
+1465,SmartBuy Product 1465,Accessories,TechPro,915.38,517.45,990,Supplier_A
+1466,FitLife Product 1466,Toys,UrbanX,-100.0,638.6,673,Supplier_E
+1467,UrbanX Product 1467,Automotive,TechPro,658.3,355.79,592,Supplier_D
+1468,StyleHub Product 1468,Beauty,StyleHub,4445.34,2414.19,568,Supplier_E
+1469,UrbanX Product 1469,Home & Kitchen,StyleHub,10450.58,5582.97,935,Supplier_C
+1470,DailyNeeds Product 1470,Sports,SmartBuy,1459.97,780.14,889,Supplier_A
+1471,HomeEase Product 1471,Fashion,UrbanX,1849.43,1075.76,393,Supplier_D
+1472,UrbanX Product 1472,Accessories,HomeEase,1445.12,1025.96,285,Supplier_C
+1473,UrbanX Product 1473,Beauty,PrimeChoice,2208.15,1543.8,934,Supplier_D
+1474,UrbanX Product 1474,Grocery,TechPro,2740.78,1867.68,867,Supplier_C
+1475,FitLife Product 1475,Beauty,StyleHub,1871.52,1435.4,870,Supplier_E
+1476,UrbanX Product 1476,Fashion,PrimeChoice,534.23,270.52,95,Supplier_A
+1477,DailyNeeds Product 1477,Home & Kitchen,DailyNeeds,965.85,745.38,843,Supplier_B
+1478,HomeEase Product 1478,Sports,TechPro,1225.67,867.9,304,Supplier_D
+1479,TechPro Product 1479,Books,TechPro,2326.16,1279.53,768,Supplier_A
+1480,HomeEase Product 1480,Toys,TechPro,1672.87,1209.38,955,Supplier_D
+1481,Nova Product 1481,Fashion,HomeEase,2386.55,1329.25,918,Supplier_B
+1482,DailyNeeds Product 1482,Fashion,UrbanX,917.11,743.36,86,Supplier_C
+1483,DailyNeeds Product 1483,Books,PrimeChoice,1206.34,817.34,587,Supplier_E
+1484,UrbanX Product 1484,Electronics,DailyNeeds,854.35,483.51,-5,Supplier_E
+1485,HomeEase Product 1485,Fashion,TechPro,1229.16,932.03,608,Supplier_A
+1486,Elite Product 1486,Fashion,SmartBuy,1073.34,712.11,-5,Supplier_B
+1487,FitLife Product 1487,Beauty,UrbanX,1277.56,588.19,556,Supplier_A
+1488,DailyNeeds Product 1488,Toys,UrbanX,1304.46,713.57,393,Supplier_C
+1489,PrimeChoice Product 1489,electronics,SmartBuy,353.7,160.42,74,Supplier_D
+1490,FitLife Product 1490,Electronics,TechPro,1359.6,997.72,337,Supplier_C
+1491,Nova Product 1491,Beauty,TechPro,2165.25,1030.35,-5,Supplier_E
+1492,Nova Product 1492,Home & Kitchen,UrbanX,1458.32,997.34,89,Supplier_D
+1493,HomeEase Product 1493,Fashion,Elite,234.91,173.71,994,Supplier_C
+1494,HomeEase Product 1494,Accessories,StyleHub,768.67,568.36,485,Supplier_A
+1495,Nova Product 1495,Toys,TechPro,945.64,649.26,367,Supplier_C
+1496,FitLife Product 1496,Toys,StyleHub,2486.47,1418.04,355,Supplier_B
+1497,StyleHub Product 1497,Books,TechPro,2379.77,1488.35,445,Supplier_A
+1498,FitLife Product 1498,Grocery,DailyNeeds,2994.55,1778.57,516,Supplier_C
+1499,TechPro Product 1499,Toys,UrbanX,1931.54,963.13,213,Supplier_D
+1500,HomeEase Product 1500,Toys,TechPro,313.55,185.28,870,Supplier_E
+1501,Nova Product 1501,Automotive,StyleHub,-100.0,538.4,561,Supplier_B
+1502,SmartBuy Product 1502,Accessories,HomeEase,1387.92,1077.21,375,Supplier_C
+1503,PrimeChoice Product 1503,Automotive,Nova,1921.21,875.72,781,Supplier_C
+1504,HomeEase Product 1504,Grocery,FitLife,505.77,373.58,379,Supplier_E
+1505,DailyNeeds Product 1505,Sports,FitLife,3252.29,1489.43,397,Supplier_B
+1506,DailyNeeds Product 1506,Sports,SmartBuy,1528.84,1218.96,617,Supplier_D
+1507,HomeEase Product 1507,Books,Elite,2146.56,1350.23,284,Supplier_D
+1508,FitLife Product 1508,Home & Kitchen,Elite,999999.0,262.1,572,Supplier_B
+1509,PrimeChoice Product 1509,electronics,TechPro,1611.92,1106.24,94,Supplier_E
+1510,FitLife Product 1510,Fashion,StyleHub,-100.0,830.73,920,Supplier_E
+1511,UrbanX Product 1511,Home & Kitchen,HomeEase,1835.01,1285.47,782,Supplier_D
+1512,SmartBuy Product 1512,Beauty,DailyNeeds,2212.09,1051.22,297,Supplier_D
+1513,SmartBuy Product 1513,Home & Kitchen,HomeEase,1863.38,1446.19,60,Supplier_D
+1514,Nova Product 1514,Accessories,UrbanX,699.59,369.4,305,Supplier_C
+1515,DailyNeeds Product 1515,Accessories,Nova,7395.52,4849.43,835,Supplier_B
+1516,PrimeChoice Product 1516,Toys,PrimeChoice,1201.87,976.09,872,Supplier_E
+1517,TechPro Product 1517,Books,HomeEase,1359.29,811.61,82,Supplier_B
+1518,FitLife Product 1518,Toys,HomeEase,1738.16,1246.52,986,Supplier_C
+1519,FitLife Product 1519,Home & Kitchen,PrimeChoice,1651.06,879.76,3,Supplier_C
+1520,TechPro Product 1520,Sports,SmartBuy,805.11,636.9,875,Supplier_D
+1521,DailyNeeds Product 1521,Automotive,HomeEase,3548.71,1604.03,952,Supplier_C
+1522,SmartBuy Product 1522,Fashion,DailyNeeds,2490.46,1487.84,748,Supplier_D
+1523,TechPro Product 1523,Home & Kitchen,StyleHub,1027.14,594.74,229,Supplier_C
+1524,Elite Product 1524,Accessories,Elite,552.42,348.98,501,Supplier_D
+1525,SmartBuy Product 1525,Electronics,FitLife,1642.64,905.01,532,Supplier_A
+1526,TechPro Product 1526,Fashion,SmartBuy,1005.32,807.6,894,Supplier_C
+1527,Elite Product 1527,Automotive,DailyNeeds,895.0,704.92,133,Supplier_E
+1528,Elite Product 1528,Home & Kitchen,PrimeChoice,738.53,508.64,219,Supplier_A
+1529,UrbanX Product 1529,Automotive,HomeEase,1733.21,1402.43,117,Supplier_E
+1530,UrbanX Product 1530,Grocery,HomeEase,3783.88,2185.19,991,Supplier_E
+1531,StyleHub Product 1531,Accessories,HomeEase,1298.77,930.85,664,Supplier_D
+1532,UrbanX Product 1532,Beauty,UrbanX,6518.99,5105.75,531,Supplier_E
+1533,PrimeChoice Product 1533,Books,TechPro,2172.09,1065.26,685,Supplier_A
+1534,Nova Product 1534,Sports,Elite,7555.39,5471.53,66,Supplier_E
+1535,TechPro Product 1535,Grocery,HomeEase,244.9,146.44,965,Supplier_A
+1536,StyleHub Product 1536,Home & Kitchen,DailyNeeds,1839.33,1012.67,688,Supplier_E
+1537,Elite Product 1537,Books,Elite,999999.0,160.54,166,Supplier_A
+1538,FitLife Product 1538,Toys,Elite,2074.19,1569.28,492,Supplier_A
+1539,Elite Product 1539,Electronics,Elite,531.45,374.0,18,Supplier_C
+1540,TechPro Product 1540,Grocery,DailyNeeds,1858.09,1032.46,94,Supplier_D
+1541,UrbanX Product 1541,Grocery,FitLife,882.03,495.61,-5,Supplier_C
+1542,UrbanX Product 1542,Fashion,Elite,3649.72,2248.34,315,Supplier_D
+1543,Nova Product 1543,Accessories,FitLife,5631.6,3480.21,89,Supplier_B
+1544,TechPro Product 1544,Sports,Elite,1938.97,1523.68,570,Supplier_D
+1545,Nova Product 1545,Home & Kitchen,FitLife,783.37,589.71,-5,Supplier_A
+1546,TechPro Product 1546,Automotive,DailyNeeds,2400.36,1362.17,812,Supplier_E
+1547,HomeEase Product 1547,Toys,TechPro,4024.48,2489.49,310,Supplier_B
+1548,Elite Product 1548,Home & Kitchen,DailyNeeds,416.23,267.83,289,Supplier_B
+1549,DailyNeeds Product 1549,Beauty,UrbanX,542.69,296.88,929,Supplier_D
+1550,Elite Product 1550,Beauty,DailyNeeds,2297.14,1405.26,-5,Supplier_E
+1551,StyleHub Product 1551,Electronics,HomeEase,782.99,368.03,820,Supplier_C
+1552,FitLife Product 1552,Fashion,FitLife,2033.0,1280.3,420,Supplier_B
+1553,Nova Product 1553,Sports,FitLife,968.76,538.72,408,Supplier_B
+1554,HomeEase Product 1554,Electronics,DailyNeeds,2266.33,1555.0,797,Supplier_B
+1555,Nova Product 1555,Automotive,Nova,4290.68,2749.63,606,Supplier_B
+1556,DailyNeeds Product 1556,Toys,TechPro,1938.48,1393.77,368,Supplier_A
+1557,FitLife Product 1557,Home & Kitchen,FitLife,1719.67,951.29,463,Supplier_C
+1558,PrimeChoice Product 1558,Electronics,SmartBuy,909.06,695.15,832,Supplier_A
+1559,HomeEase Product 1559,Home & Kitchen,TechPro,,1158.74,244,Supplier_D
+1560,StyleHub Product 1560,Electronics,TechPro,1203.5,641.34,380,Supplier_E
+1561,FitLife Product 1561,Electronics,PrimeChoice,463.8,356.05,468,Supplier_A
+1562,HomeEase Product 1562,Electronics,HomeEase,1298.57,778.42,745,Supplier_D
+1563,Nova Product 1563,Toys,PrimeChoice,1192.09,728.59,854,Supplier_C
+1564,FitLife Product 1564,Books,UrbanX,2500.39,1855.51,296,Supplier_A
+1565,UrbanX Product 1565,Fashion,PrimeChoice,7032.17,3429.79,134,Supplier_C
+1566,FitLife Product 1566,Toys,TechPro,1326.65,760.8,983,Supplier_A
+1567,TechPro Product 1567,Books, TechPro ,84.46,53.69,212,Supplier_C
+1568,Nova Product 1568,Sports,UrbanX,429.27,219.42,104,Supplier_C
+1569,DailyNeeds Product 1569,Beauty,DailyNeeds,354.45,200.41,954,Supplier_B
+1570,HomeEase Product 1570,Toys,DailyNeeds,1881.52,1172.03,166,Supplier_D
+1571,Nova Product 1571,Accessories,HomeEase,5273.81,2924.13,57,Supplier_D
+1572,StyleHub Product 1572,Electronic,DailyNeeds,-100.0,308.71,-5,Supplier_B
+1573,DailyNeeds Product 1573,Fashion,UrbanX,2972.87,1826.14,160,Supplier_B
+1574,SmartBuy Product 1574,Beauty,FitLife,1982.75,1071.85,8,Supplier_A
+1575,UrbanX Product 1575,Home & Kitchen,PrimeChoice,4537.08,3296.16,685,Supplier_B
+1576,FitLife Product 1576,Accessories,TechPro,1464.93,1033.45,599,Supplier_E
+1577,StyleHub Product 1577,Electronics,UrbanX,-100.0,2243.44,708,Supplier_D
+1578,HomeEase Product 1578,Accessories,Nova,608.97,423.45,997,Supplier_C
+1579,TechPro Product 1579,Fashion,Nova,590.57,406.36,696,Supplier_B
+1580,UrbanX Product 1580,Grocery,Nova,5417.8,3663.49,154,Supplier_C
+1581,Nova Product 1581,Fashion,Elite,1970.62,1351.69,396,Supplier_C
+1582,SmartBuy Product 1582,Automotive,PrimeChoice,3765.24,2660.86,234,Supplier_A
+1583,StyleHub Product 1583,Beauty,Nova,,997.3,220,Supplier_C
+1584,DailyNeeds Product 1584,Fashion,Elite,1732.85,872.58,356,Supplier_B
+1585,StyleHub Product 1585,Beauty,HomeEase,3157.56,2251.14,805,Supplier_E
+1586,DailyNeeds Product 1586,Fashion,Nova,616.6,321.78,131,Supplier_B
+1587,FitLife Product 1587,Sports,PrimeChoice,1923.01,1065.93,190,Supplier_B
+1588,TechPro Product 1588,Grocery,TechPro,4537.44,2430.98,285,Supplier_E
+1589,StyleHub Product 1589,Beauty,HomeEase,538.41,319.28,944,Supplier_A
+1590,TechPro Product 1590,Books,UrbanX,1538.97,1022.98,646,Supplier_D
+1591,PrimeChoice Product 1591,Toys,UrbanX,2025.27,1178.18,410,Supplier_C
+1592,UrbanX Product 1592,Sports,TechPro,2270.44,1672.79,720,Supplier_A
+1593,TechPro Product 1593,Automotive,SmartBuy,1940.47,953.72,267,Supplier_B
+1594,DailyNeeds Product 1594,Fashion,TechPro,2523.16,2012.9,129,Supplier_B
+1595,PrimeChoice Product 1595,Electronics,FitLife,863.46,680.3,195,Supplier_A
+1596,HomeEase Product 1596,Home & Kitchen,PrimeChoice,1116.16,875.16,712,Supplier_C
+1597,TechPro Product 1597,Toys,HomeEase,-100.0,640.82,168,Supplier_A
+1598,DailyNeeds Product 1598,Automotive,FitLife,1208.3,987.6,666,Supplier_D
+1599,DailyNeeds Product 1599,Home & Kitchen,SmartBuy,5074.54,3412.19,165,Supplier_B
+1600,UrbanX Product 1600,Toys,TechPro,997.82,635.35,339,Supplier_C
+1601,PrimeChoice Product 1601,Sports,SmartBuy,1483.22,840.92,967,Supplier_C
+1602,Nova Product 1602,Fashion,TechPro,726.48,507.82,566,Supplier_D
+1603,SmartBuy Product 1603,Automotive,FitLife,1021.07,488.07,746,Supplier_B
+1604,FitLife Product 1604,Accessories,HomeEase,1423.88,945.37,110,Supplier_C
+1605,UrbanX Product 1605,Books,HomeEase,973.6,663.88,671,Supplier_A
+1606,Nova Product 1606,Fashion,Nova,709.36,403.66,166,Supplier_B
+1607,SmartBuy Product 1607,Home & Kitchen,TechPro,563.7,327.51,523,Supplier_E
+1608,Elite Product 1608,Books,DailyNeeds,1060.73,632.47,737,Supplier_D
+1609,Nova Product 1609,Automotive,DailyNeeds,1288.33,668.19,548,Supplier_E
+1610,Nova Product 1610,Home & Kitchen,UrbanX,791.62,486.85,739,Supplier_A
+1611,HomeEase Product 1611,Accessories,PrimeChoice,,780.8,544,Supplier_E
+1612,DailyNeeds Product 1612,Electronics,UrbanX,3145.83,2555.8,754,Supplier_E
+1613,Nova Product 1613,Automotive, TechPro ,877.06,544.87,62,Supplier_B
+1614,UrbanX Product 1614,Toys,SmartBuy,1152.37,582.6,224,Supplier_E
+1615,HomeEase Product 1615,Accessories,FitLife,926.68,630.58,526,Supplier_E
+1616,PrimeChoice Product 1616,Beauty,Elite,,1003.75,95,Supplier_E
+1617,TechPro Product 1617,Sports,DailyNeeds,533.02,288.09,692,Supplier_E
+1618,UrbanX Product 1618,electronics,TechPro,377.7,170.14,415,Supplier_B
+1619,Nova Product 1619,Grocery,HomeEase,2771.93,1681.85,153,Supplier_C
+1620,HomeEase Product 1620,Fashion,HomeEase,942.98,428.2,318,Supplier_E
+1621,SmartBuy Product 1621,Grocery,SmartBuy,691.75,376.88,16,Supplier_A
+1622,StyleHub Product 1622,Toys,FitLife,726.83,531.15,61,Supplier_C
+1623,HomeEase Product 1623,Books,SmartBuy,1694.65,1262.77,905,Supplier_C
+1624,StyleHub Product 1624,Sports,Elite,886.33,478.55,415,Supplier_E
+1625,StyleHub Product 1625,Home & Kitchen,Elite,415.64,250.47,918,Supplier_C
+1626,UrbanX Product 1626,Automotive,StyleHub,2549.2,1518.12,770,Supplier_E
+1627,UrbanX Product 1627,Fashion,SmartBuy,504.7,308.06,87,Supplier_C
+1628,FitLife Product 1628,Books,FitLife,672.55,359.61,-5,Supplier_B
+1629,FitLife Product 1629,Accessories,UrbanX,971.9,684.48,830,Supplier_B
+1630,HomeEase Product 1630,Electronics,Elite,2327.64,1156.98,623,Supplier_C
+1631,FitLife Product 1631,Home & Kitchen,Elite,1116.37,794.98,43,Supplier_B
+1632,PrimeChoice Product 1632,Electronics,Nova,956.88,584.63,448,Supplier_E
+1633,PrimeChoice Product 1633,Toys,SmartBuy,1356.75,660.72,219,Supplier_D
+1634,PrimeChoice Product 1634,Beauty,Nova,1530.05,726.13,873,Supplier_E
+1635,HomeEase Product 1635,Beauty,PrimeChoice,940.39,706.84,76,Supplier_A
+1636,HomeEase Product 1636,Automotive,StyleHub,535.7,349.59,291,Supplier_E
+1637,UrbanX Product 1637,Automotive,StyleHub,2470.05,1860.63,74,Supplier_D
+1638,FitLife Product 1638,electronics,DailyNeeds,149.97,122.94,680,Supplier_A
+1639,PrimeChoice Product 1639,Accessories,FitLife,1037.03,840.79,10,Supplier_E
+1640,TechPro Product 1640,Automotive,TechPro,,631.84,285,Supplier_E
+1641,StyleHub Product 1641,Toys,SmartBuy,626.97,397.44,278,Supplier_B
+1642,PrimeChoice Product 1642,Toys,DailyNeeds,1908.5,1537.24,868,Supplier_A
+1643,StyleHub Product 1643,Sports,DailyNeeds,2711.97,1838.27,507,Supplier_C
+1644,FitLife Product 1644,Fashion,Elite,691.66,342.91,43,Supplier_D
+1645,HomeEase Product 1645,Fashion,FitLife,3528.23,2229.43,415,Supplier_D
+1646,Elite Product 1646,Electronics,FitLife,999999.0,786.15,214,Supplier_C
+1647,Nova Product 1647,Grocery,HomeEase,840.19,535.98,379,Supplier_B
+1648,Nova Product 1648,Beauty, TechPro ,1584.2,1161.83,224,Supplier_C
+1649,HomeEase Product 1649,Fashion,Nova,2345.7,1884.27,691,Supplier_C
+1650,TechPro Product 1650,Home & Kitchen,Elite,509.14,265.29,870,Supplier_E
+1651,PrimeChoice Product 1651,Accessories,StyleHub,2609.26,1886.74,543,Supplier_B
+1652,FitLife Product 1652,Books,SmartBuy,619.73,358.11,459,Supplier_D
+1653,SmartBuy Product 1653,Grocery,StyleHub,1385.49,678.41,200,Supplier_A
+1654,UrbanX Product 1654,Accessories,UrbanX,418.47,255.31,238,Supplier_C
+1655,PrimeChoice Product 1655,Electronics,UrbanX,2077.8,1353.72,459,Supplier_B
+1656,HomeEase Product 1656,Sports,HomeEase,2007.97,1299.49,222,Supplier_E
+1657,DailyNeeds Product 1657,Sports,FitLife,2337.26,1514.09,396,Supplier_C
+1658,StyleHub Product 1658,Electronics,Elite,2616.23,1904.28,162,Supplier_A
+1659,SmartBuy Product 1659,Toys,FitLife,885.7,458.11,116,Supplier_A
+1660,Nova Product 1660,Toys,SmartBuy,1087.25,591.98,331,Supplier_A
+1661,UrbanX Product 1661,Toys,PrimeChoice,2615.9,1379.08,94,Supplier_B
+1662,TechPro Product 1662,Grocery,Nova,2322.99,1767.81,966,Supplier_B
+1663,StyleHub Product 1663,Automotive,StyleHub,954.52,474.41,770,Supplier_E
+1664,Elite Product 1664,Accessories,Elite,324.67,258.08,970,Supplier_D
+1665,SmartBuy Product 1665,electronics,StyleHub,597.72,400.74,138,Supplier_B
+1666,SmartBuy Product 1666,Home & Kitchen,TechPro,795.54,362.57,953,Supplier_C
+1667,SmartBuy Product 1667,Sports,PrimeChoice,2679.6,1629.15,538,Supplier_E
+1668,UrbanX Product 1668,Fashion,Nova,1309.0,1007.48,115,Supplier_D
+1669,FitLife Product 1669,Electronics,Nova,1436.94,803.41,969,Supplier_E
+1670,Nova Product 1670,Sports,Nova,865.42,608.83,301,Supplier_E
+1671,HomeEase Product 1671,Electronics,PrimeChoice,4918.61,3557.18,289,Supplier_A
+1672,PrimeChoice Product 1672,Books,SmartBuy,770.6,448.78,128,Supplier_B
+1673,PrimeChoice Product 1673,Home & Kitchen,PrimeChoice,1324.12,969.28,285,Supplier_E
+1674,HomeEase Product 1674,Accessories,TechPro,245.02,146.33,586,Supplier_D
+1675,Elite Product 1675,Home & Kitchen,Elite,1909.72,1558.6,378,Supplier_D
+1676,TechPro Product 1676,Grocery,SmartBuy,3731.08,2628.47,477,Supplier_A
+1677,StyleHub Product 1677,Automotive,DailyNeeds,4920.48,3354.15,933,Supplier_C
+1678,StyleHub Product 1678,Toys,Elite,486.73,332.18,775,Supplier_A
+1679,TechPro Product 1679,Grocery,UrbanX,879.63,691.49,717,Supplier_B
+1680,FitLife Product 1680,Fashion,StyleHub,2478.47,1715.72,734,Supplier_B
+1681,StyleHub Product 1681,Books,FitLife,865.22,600.98,76,Supplier_D
+1682,DailyNeeds Product 1682,Automotive,DailyNeeds,1956.32,1501.89,629,Supplier_D
+1683,UrbanX Product 1683,Books,PrimeChoice,,1668.13,508,Supplier_C
+1684,HomeEase Product 1684,electronics,PrimeChoice,1443.71,802.62,205,Supplier_A
+1685,HomeEase Product 1685,electronics,Elite,1022.56,482.64,539,Supplier_E
+1686,Nova Product 1686,Beauty,Nova,1039.59,692.09,707,Supplier_B
+1687,PrimeChoice Product 1687,Accessories,TechPro,4161.49,2147.58,170,Supplier_B
+1688,SmartBuy Product 1688,Books,Elite,1414.23,653.38,382,Supplier_B
+1689,FitLife Product 1689,Electronics,StyleHub,299.07,230.08,451,Supplier_A
+1690,PrimeChoice Product 1690,Beauty,FitLife,1035.93,805.32,85,Supplier_D
+1691,FitLife Product 1691,electronics,UrbanX,1459.2,1185.21,833,Supplier_E
+1692,SmartBuy Product 1692,Sports,PrimeChoice,1115.27,758.87,931,Supplier_E
+1693,SmartBuy Product 1693,Automotive,HomeEase,1263.9,996.63,128,Supplier_B
+1694,HomeEase Product 1694,Books,UrbanX,894.88,546.21,450,Supplier_D
+1695,UrbanX Product 1695,Books,HomeEase,455.21,346.34,55,Supplier_B
+1696,DailyNeeds Product 1696,Sports,TechPro,457.43,368.59,278,Supplier_C
+1697,PrimeChoice Product 1697,Grocery,Nova,4342.4,3242.73,22,Supplier_D
+1698,FitLife Product 1698,Toys,HomeEase,1256.9,679.92,430,Supplier_A
+1699,SmartBuy Product 1699,Beauty,PrimeChoice,845.75,626.89,788,Supplier_A
+1700,UrbanX Product 1700,Sports,UrbanX,1539.71,952.06,213,Supplier_C
+1701,TechPro Product 1701,Grocery,UrbanX,2155.18,1357.19,23,Supplier_B
+1702,FitLife Product 1702,Toys,Nova,1190.4,970.26,820,Supplier_C
+1703,FitLife Product 1703,Home & Kitchen,SmartBuy,4437.55,2795.23,861,Supplier_D
+1704,FitLife Product 1704,Automotive,FitLife,415.51,322.51,377,Supplier_E
+1705,StyleHub Product 1705,Home & Kitchen,UrbanX,987.93,533.5,369,Supplier_D
+1706,SmartBuy Product 1706,Home & Kitchen,DailyNeeds,1697.42,905.3,629,Supplier_E
+1707,SmartBuy Product 1707,Fashion,StyleHub,156.41,76.24,154,Supplier_C
+1708,StyleHub Product 1708,Books,SmartBuy,672.44,472.4,833,Supplier_B
+1709,UrbanX Product 1709,Accessories, TechPro ,3246.02,1960.27,766,Supplier_B
+1710,TechPro Product 1710,Electronics,FitLife,2813.31,1547.97,478,Supplier_E
+1711,Nova Product 1711,Grocery, TechPro ,952.26,547.66,225,Supplier_E
+1712,SmartBuy Product 1712,Beauty,PrimeChoice,,1450.54,585,Supplier_C
+1713,FitLife Product 1713,Home & Kitchen,StyleHub,1692.69,1070.35,527,Supplier_A
+1714,FitLife Product 1714,Automotive,FitLife,2960.57,1994.4,358,Supplier_B
+1715,PrimeChoice Product 1715,Sports,UrbanX,1560.25,1025.89,566,Supplier_B
+1716,Nova Product 1716,Beauty,UrbanX,814.93,566.65,245,Supplier_B
+1717,PrimeChoice Product 1717,Grocery,Elite,664.42,543.93,480,Supplier_B
+1718,Elite Product 1718,Sports,HomeEase,1706.08,826.47,538,Supplier_D
+1719,Elite Product 1719,Grocery,Elite,1079.53,807.33,19,Supplier_B
+1720,Elite Product 1720,Toys,TechPro,2347.34,1742.22,639,Supplier_D
+1721,UrbanX Product 1721,Sports,PrimeChoice,1501.3,966.73,365,Supplier_C
+1722,TechPro Product 1722,Books,FitLife,306.77,247.5,523,Supplier_D
+1723,Nova Product 1723,Fashion,UrbanX,1197.94,586.69,466,Supplier_D
+1724,Elite Product 1724,Accessories,TechPro,,1575.63,-5,Supplier_E
+1725,StyleHub Product 1725,Fashion,StyleHub,891.79,644.31,142,Supplier_D
+1726,UrbanX Product 1726,Grocery,SmartBuy,,730.23,314,Supplier_B
+1727,HomeEase Product 1727,Books,StyleHub,1610.73,1031.63,176,Supplier_C
+1728,FitLife Product 1728,Fashion,SmartBuy,369.28,283.44,664,Supplier_E
+1729,Nova Product 1729,Automotive,Elite,1207.12,562.54,133,Supplier_C
+1730,PrimeChoice Product 1730,Home & Kitchen,DailyNeeds,1100.83,753.0,583,Supplier_E
+1731,SmartBuy Product 1731,Automotive,Elite,1493.25,692.15,105,Supplier_A
+1732,Elite Product 1732,Books,HomeEase,788.07,421.52,22,Supplier_E
+1733,Nova Product 1733,Books,SmartBuy,802.71,563.96,608,Supplier_E
+1734,SmartBuy Product 1734,Automotive,PrimeChoice,1918.18,879.36,330,Supplier_A
+1735,Elite Product 1735,Sports,PrimeChoice,1753.2,1226.73,63,Supplier_D
+1736,HomeEase Product 1736,Home & Kitchen,TechPro,255.29,142.74,-5,Supplier_E
+1737,HomeEase Product 1737,Beauty,HomeEase,,2400.47,193,Supplier_D
+1738,SmartBuy Product 1738,Accessories,Nova,642.16,464.38,786,Supplier_B
+1739,StyleHub Product 1739,Electronics,HomeEase,482.92,354.1,225,Supplier_D
+1740,StyleHub Product 1740,Grocery,Nova,6040.63,3168.25,885,Supplier_E
+1741,SmartBuy Product 1741,Books,Elite,1719.66,1055.77,278,Supplier_B
+1742,StyleHub Product 1742,Toys,SmartBuy,1744.04,954.45,599,Supplier_A
+1743,Elite Product 1743,Electronics,SmartBuy,1200.86,764.16,5,Supplier_D
+1744,UrbanX Product 1744,Grocery,TechPro,1948.12,1057.07,812,Supplier_A
+1745,Elite Product 1745,Automotive,Nova,1790.35,1222.01,422,Supplier_A
+1746,Nova Product 1746,Books,Elite,9917.93,6592.42,354,Supplier_D
+1747,DailyNeeds Product 1747,Toys,UrbanX,1152.73,746.56,774,Supplier_A
+1748,StyleHub Product 1748,Grocery,Elite,9093.61,7048.88,376,Supplier_B
+1749,TechPro Product 1749,Beauty,StyleHub,752.85,537.07,707,Supplier_E
+1750,UrbanX Product 1750,Accessories,FitLife,1369.87,763.27,705,Supplier_D
+1751,DailyNeeds Product 1751,Beauty,StyleHub,1920.51,1283.78,984,Supplier_E
+1752,Nova Product 1752,Automotive,TechPro,575.08,364.53,677,Supplier_B
+1753,DailyNeeds Product 1753,Beauty,Elite,592.7,347.1,738,Supplier_A
+1754,PrimeChoice Product 1754,Accessories,Elite,873.21,684.26,83,Supplier_D
+1755,HomeEase Product 1755,Grocery,HomeEase,1804.98,1067.59,628,Supplier_D
+1756,DailyNeeds Product 1756,Fashion,DailyNeeds,765.73,591.04,285,Supplier_E
+1757,UrbanX Product 1757,Automotive,Elite,3082.75,1740.31,77,Supplier_A
+1758,StyleHub Product 1758,Automotive,StyleHub,1591.1,1255.59,437,Supplier_B
+1759,Elite Product 1759,Accessories,SmartBuy,3422.9,1967.09,814,Supplier_C
+1760,Elite Product 1760,Automotive,Nova,462.12,272.22,467,Supplier_E
+1761,StyleHub Product 1761,Sports,TechPro,521.06,366.29,151,Supplier_C
+1762,Nova Product 1762,Home & Kitchen,TechPro,,898.21,658,Supplier_B
+1763,SmartBuy Product 1763,Toys,UrbanX,527.29,245.78,747,Supplier_D
+1764,Nova Product 1764,Electronics,TechPro,699.67,456.06,506,Supplier_A
+1765,SmartBuy Product 1765,Fashion,Nova,444.08,211.49,447,Supplier_A
+1766,TechPro Product 1766,Electronics,UrbanX,1002.37,665.32,729,Supplier_A
+1767,Nova Product 1767,Sports,Nova,3061.5,2166.63,705,Supplier_B
+1768,Nova Product 1768,electronics,TechPro,471.21,305.8,440,Supplier_C
+1769,FitLife Product 1769,Grocery,DailyNeeds,1427.49,941.33,66,Supplier_C
+1770,StyleHub Product 1770,Books,PrimeChoice,3268.6,1824.55,237,Supplier_C
+1771,PrimeChoice Product 1771,Electronics,Nova,1789.76,1024.71,391,Supplier_B
+1772,DailyNeeds Product 1772,Home & Kitchen,PrimeChoice,672.27,337.08,536,Supplier_A
+1773,UrbanX Product 1773,Fashion,PrimeChoice,555.64,420.87,364,Supplier_E
+1774,DailyNeeds Product 1774,Beauty,SmartBuy,5133.33,2709.76,553,Supplier_C
+1775,DailyNeeds Product 1775,Toys,SmartBuy,7822.71,5551.56,119,Supplier_C
+1776,StyleHub Product 1776,Sports,TechPro,1597.2,1020.24,694,Supplier_D
+1777,Elite Product 1777,Books,SmartBuy,289.95,208.69,282,Supplier_B
+1778,HomeEase Product 1778,Sports,TechPro,1070.96,521.43,385,Supplier_C
+1779,DailyNeeds Product 1779,Toys,FitLife,1074.53,592.04,266,Supplier_A
+1780,Nova Product 1780,Sports,HomeEase,4156.82,3257.17,593,Supplier_E
+1781,DailyNeeds Product 1781,Books,HomeEase,1151.34,609.55,720,Supplier_E
+1782,FitLife Product 1782,Sports,DailyNeeds,2492.92,1213.35,960,Supplier_C
+1783,UrbanX Product 1783,Beauty,StyleHub,2184.47,1199.19,412,Supplier_E
+1784,UrbanX Product 1784,Fashion,Nova,829.83,444.74,22,Supplier_A
+1785,PrimeChoice Product 1785,Toys,StyleHub,1131.27,762.88,605,Supplier_C
+1786,HomeEase Product 1786,Sports,TechPro,2481.6,1168.27,707,Supplier_E
+1787,Nova Product 1787,Sports,StyleHub,1231.15,945.56,321,Supplier_E
+1788,Elite Product 1788,Sports,Elite,707.22,373.77,-5,Supplier_C
+1789,StyleHub Product 1789,Fashion,DailyNeeds,2000.9,1221.58,691,Supplier_A
+1790,DailyNeeds Product 1790,Toys, TechPro ,1492.37,1014.69,724,Supplier_A
+1791,DailyNeeds Product 1791,Books,SmartBuy,423.19,319.68,204,Supplier_A
+1792,UrbanX Product 1792,Electronics,UrbanX,1615.79,816.38,671,Supplier_B
+1793,StyleHub Product 1793,Books,TechPro,1106.58,560.41,363,Supplier_D
+1794,TechPro Product 1794,Accessories,DailyNeeds,982.26,475.73,112,Supplier_A
+1795,TechPro Product 1795,Home & Kitchen,PrimeChoice,1808.13,1208.55,737,Supplier_A
+1796,TechPro Product 1796,Automotive,SmartBuy,1738.53,1007.09,722,Supplier_B
+1797,DailyNeeds Product 1797,Beauty,HomeEase,999999.0,998.03,998,Supplier_A
+1798,HomeEase Product 1798,Sports,SmartBuy,234.12,165.96,802,Supplier_E
+1799,DailyNeeds Product 1799,Beauty,TechPro,453.59,287.3,215,Supplier_A
+1800,TechPro Product 1800,Fashion,FitLife,565.37,410.58,626,Supplier_A
+1801,PrimeChoice Product 1801,electronics,DailyNeeds,606.73,306.92,319,Supplier_E
+1802,TechPro Product 1802,Toys,HomeEase,1502.89,855.26,194,Supplier_E
+1803,HomeEase Product 1803,Fashion,DailyNeeds,1245.1,784.02,349,Supplier_B
+1804,DailyNeeds Product 1804,Electronics,DailyNeeds,3362.36,2119.14,656,Supplier_B
+1805,StyleHub Product 1805,Automotive,UrbanX,438.74,348.75,429,Supplier_B
+1806,StyleHub Product 1806,Automotive,FitLife,1461.62,1009.09,573,Supplier_D
+1807,SmartBuy Product 1807,Electronics,TechPro,2861.96,1844.35,283,Supplier_E
+1808,TechPro Product 1808,electronics,SmartBuy,-100.0,537.86,311,Supplier_E
+1809,Elite Product 1809,Electronics,HomeEase,3288.41,2162.43,570,Supplier_D
+1810,DailyNeeds Product 1810,Electronics,SmartBuy,2005.69,1358.77,622,Supplier_B
+1811,SmartBuy Product 1811,Electronics,PrimeChoice,1646.08,867.69,835,Supplier_D
+1812,UrbanX Product 1812,electronics,StyleHub,1376.71,774.21,83,Supplier_E
+1813,HomeEase Product 1813,Books,PrimeChoice,4005.15,2751.86,931,Supplier_A
+1814,TechPro Product 1814,Fashion,HomeEase,4464.83,2960.98,466,Supplier_C
+1815,Nova Product 1815,Fashion,UrbanX,778.91,576.61,534,Supplier_D
+1816,Elite Product 1816,Home & Kitchen,HomeEase,567.16,402.81,453,Supplier_E
+1817,DailyNeeds Product 1817,electronics,TechPro,3293.29,2533.93,276,Supplier_D
+1818,Elite Product 1818,Toys,TechPro,645.12,371.29,389,Supplier_A
+1819,PrimeChoice Product 1819,Home & Kitchen,Elite,1005.06,672.35,677,Supplier_C
+1820,HomeEase Product 1820,Automotive,HomeEase,2264.29,1294.07,635,Supplier_C
+1821,HomeEase Product 1821,Grocery,PrimeChoice,,129.81,407,Supplier_D
+1822,Nova Product 1822,Books,Elite,716.59,447.18,355,Supplier_E
+1823,SmartBuy Product 1823,Grocery,DailyNeeds,886.69,665.47,189,Supplier_B
+1824,Elite Product 1824,Automotive,StyleHub,929.82,613.53,263,Supplier_E
+1825,HomeEase Product 1825,Home & Kitchen,DailyNeeds,3569.04,1961.57,667,Supplier_B
+1826,UrbanX Product 1826,Fashion,Elite,-100.0,1754.46,783,Supplier_E
+1827,Elite Product 1827,Beauty,StyleHub,1099.19,886.4,973,Supplier_D
+1828,HomeEase Product 1828,Automotive,UrbanX,3487.26,1898.11,201,Supplier_E
+1829,HomeEase Product 1829,Toys,Nova,1802.69,1126.58,477,Supplier_B
+1830,DailyNeeds Product 1830,Beauty, TechPro ,1734.2,1402.05,513,Supplier_D
+1831,UrbanX Product 1831,Electronic,Nova,1254.69,954.5,519,Supplier_C
+1832,StyleHub Product 1832,Automotive,UrbanX,5773.25,4150.92,699,Supplier_C
+1833,FitLife Product 1833,Beauty,UrbanX,1911.66,878.48,265,Supplier_C
+1834,Elite Product 1834,electronics,HomeEase,857.81,507.0,918,Supplier_E
+1835,FitLife Product 1835,Sports,SmartBuy,521.08,316.64,519,Supplier_C
+1836,Nova Product 1836,Accessories,StyleHub,1897.16,1085.86,614,Supplier_E
+1837,Nova Product 1837,Beauty,PrimeChoice,,869.05,771,Supplier_B
+1838,Elite Product 1838,Books,SmartBuy,2586.88,1866.17,147,Supplier_C
+1839,UrbanX Product 1839,electronics,Elite,902.06,691.06,137,Supplier_D
+1840,StyleHub Product 1840,Toys,PrimeChoice,1485.9,722.23,689,Supplier_A
+1841,Elite Product 1841,Home & Kitchen,StyleHub,879.73,574.56,673,Supplier_C
+1842,Nova Product 1842,Fashion,TechPro,4103.52,2673.08,611,Supplier_E
+1843,UrbanX Product 1843,Sports,SmartBuy,5523.31,2904.35,660,Supplier_A
+1844,TechPro Product 1844,Beauty,HomeEase,1104.45,781.93,9,Supplier_E
+1845,StyleHub Product 1845,Beauty,SmartBuy,352.13,217.6,182,Supplier_B
+1846,Elite Product 1846,Fashion,UrbanX,623.75,358.53,196,Supplier_E
+1847,PrimeChoice Product 1847,Home & Kitchen,DailyNeeds,702.13,547.48,926,Supplier_A
+1848,Nova Product 1848,Fashion,TechPro,1408.44,737.53,407,Supplier_D
+1849,FitLife Product 1849,Fashion,TechPro,830.71,464.96,353,Supplier_B
+1850,Nova Product 1850,electronics,StyleHub,499.14,294.25,956,Supplier_E
+1851,FitLife Product 1851,Accessories,HomeEase,368.42,181.46,830,Supplier_C
+1852,StyleHub Product 1852,Electronics,SmartBuy,3465.58,1760.93,805,Supplier_E
+1853,StyleHub Product 1853,Electronics,Elite,999999.0,2406.48,7,Supplier_A
+1854,DailyNeeds Product 1854,Toys,PrimeChoice,771.15,390.22,5,Supplier_A
+1855,TechPro Product 1855,Fashion,DailyNeeds,616.5,401.98,491,Supplier_B
+1856,SmartBuy Product 1856,Accessories,TechPro,2510.65,1766.56,761,Supplier_B
+1857,TechPro Product 1857,Accessories,Elite,2774.66,2057.11,519,Supplier_E
+1858,HomeEase Product 1858,Home & Kitchen, TechPro ,1233.8,844.26,437,Supplier_B
+1859,HomeEase Product 1859,Beauty,PrimeChoice,1619.29,1090.99,29,Supplier_B
+1860,Nova Product 1860,Home & Kitchen,PrimeChoice,4237.9,2724.7,981,Supplier_C
+1861,UrbanX Product 1861,Fashion,SmartBuy,4131.97,2331.69,239,Supplier_E
+1862,Nova Product 1862,Beauty,SmartBuy,2521.2,1165.45,129,Supplier_E
+1863,Elite Product 1863,Electronics,HomeEase,2416.78,1638.5,976,Supplier_E
+1864,PrimeChoice Product 1864,Home & Kitchen,StyleHub,333.9,184.85,508,Supplier_C
+1865,StyleHub Product 1865,Automotive,UrbanX,507.42,248.99,499,Supplier_A
+1866,Nova Product 1866,Toys,FitLife,894.82,614.27,16,Supplier_D
+1867,FitLife Product 1867,Accessories,Elite,2315.13,1655.96,994,Supplier_B
+1868,StyleHub Product 1868,electronics,UrbanX,2203.86,1198.85,4,Supplier_B
+1869,UrbanX Product 1869,Automotive,TechPro,861.28,526.61,556,Supplier_A
+1870,UrbanX Product 1870,Home & Kitchen,FitLife,355.01,217.35,52,Supplier_E
+1871,UrbanX Product 1871,Books,Nova,1445.12,869.15,499,Supplier_E
+1872,Nova Product 1872,Sports,UrbanX,743.15,505.17,128,Supplier_B
+1873,FitLife Product 1873,Automotive,UrbanX,1270.02,840.85,844,Supplier_E
+1874,FitLife Product 1874,Home & Kitchen,HomeEase,,1689.92,782,Supplier_E
+1875,UrbanX Product 1875,Fashion,StyleHub,1921.5,1071.4,137,Supplier_A
+1876,FitLife Product 1876,Accessories, TechPro ,,2626.21,877,Supplier_A
+1877,Nova Product 1877,Automotive,TechPro,2186.28,1026.58,867,Supplier_D
+1878,SmartBuy Product 1878,Toys,HomeEase,3648.72,2956.43,701,Supplier_A
+1879,HomeEase Product 1879,Grocery,StyleHub,495.68,233.07,245,Supplier_C
+1880,Elite Product 1880,Accessories,StyleHub,389.38,246.26,19,Supplier_A
+1881,DailyNeeds Product 1881,Accessories,PrimeChoice,670.99,384.74,343,Supplier_E
+1882,DailyNeeds Product 1882,Electronics,SmartBuy,1479.63,932.21,83,Supplier_D
+1883,Elite Product 1883,Fashion,DailyNeeds,4234.84,2348.48,100,Supplier_E
+1884,TechPro Product 1884,Accessories,Elite,1147.98,518.86,58,Supplier_C
+1885,SmartBuy Product 1885,Books,Elite,1072.36,732.58,325,Supplier_C
+1886,Nova Product 1886,Accessories,SmartBuy,992.8,797.89,200,Supplier_A
+1887,DailyNeeds Product 1887,Books, TechPro ,1614.07,1192.65,590,Supplier_C
+1888,DailyNeeds Product 1888,Beauty,SmartBuy,811.34,530.46,518,Supplier_C
+1889,SmartBuy Product 1889,Toys,UrbanX,449.31,356.26,879,Supplier_A
+1890,FitLife Product 1890,Beauty,UrbanX,1078.07,832.21,908,Supplier_A
+1891,UrbanX Product 1891,Home & Kitchen,Elite,960.33,698.63,502,Supplier_E
+1892,UrbanX Product 1892,Toys,DailyNeeds,1401.05,993.0,867,Supplier_E
+1893,UrbanX Product 1893,Beauty,TechPro,781.63,439.79,777,Supplier_E
+1894,StyleHub Product 1894,Automotive,HomeEase,980.61,790.94,367,Supplier_A
+1895,Elite Product 1895,Grocery,HomeEase,515.91,361.54,479,Supplier_A
+1896,UrbanX Product 1896,Toys,Elite,4245.98,2237.6,722,Supplier_D
+1897,DailyNeeds Product 1897,Automotive,SmartBuy,539.29,424.26,522,Supplier_B
+1898,StyleHub Product 1898,Grocery,PrimeChoice,1829.19,878.76,295,Supplier_A
+1899,Elite Product 1899,Beauty,DailyNeeds,1144.45,710.21,119,Supplier_E
+1900,PrimeChoice Product 1900,Grocery,UrbanX,168.63,118.44,32,Supplier_D
+1901,TechPro Product 1901,Toys,HomeEase,467.32,369.55,225,Supplier_C
+1902,UrbanX Product 1902,Toys,TechPro,974.99,485.66,423,Supplier_C
+1903,SmartBuy Product 1903,Grocery,SmartBuy,,293.18,821,Supplier_B
+1904,TechPro Product 1904,Grocery,SmartBuy,2131.66,1429.64,209,Supplier_B
+1905,PrimeChoice Product 1905,Accessories,PrimeChoice,1619.46,933.29,849,Supplier_C
+1906,FitLife Product 1906,Toys,Elite,1833.65,1068.74,617,Supplier_B
+1907,HomeEase Product 1907,Toys,DailyNeeds,740.65,394.16,473,Supplier_C
+1908,DailyNeeds Product 1908,Sports,SmartBuy,972.7,772.85,183,Supplier_D
+1909,PrimeChoice Product 1909,Home & Kitchen,SmartBuy,3702.07,2233.69,527,Supplier_D
+1910,TechPro Product 1910,electronics,TechPro,1417.77,961.71,7,Supplier_B
+1911,Nova Product 1911,Accessories,HomeEase,766.45,498.18,533,Supplier_D
+1912,FitLife Product 1912,Sports,PrimeChoice,1576.92,880.75,863,Supplier_C
+1913,Nova Product 1913,Accessories,HomeEase,2824.82,1599.65,517,Supplier_B
+1914,FitLife Product 1914,Home & Kitchen,TechPro,2950.47,2379.87,890,Supplier_A
+1915,Nova Product 1915,Accessories,StyleHub,603.53,279.57,359,Supplier_E
+1916,StyleHub Product 1916,Grocery,PrimeChoice,537.95,434.05,490,Supplier_D
+1917,FitLife Product 1917,Electronics,SmartBuy,141.63,85.14,600,Supplier_D
+1918,Elite Product 1918,Home & Kitchen,FitLife,1005.21,744.16,959,Supplier_C
+1919,DailyNeeds Product 1919,Beauty,TechPro,2804.26,1666.56,755,Supplier_D
+1920,DailyNeeds Product 1920,Toys,FitLife,2846.57,1355.58,372,Supplier_E
+1921,TechPro Product 1921,Beauty,StyleHub,766.0,590.49,915,Supplier_C
+1922,DailyNeeds Product 1922,Grocery,StyleHub,1167.35,672.39,327,Supplier_A
+1923,PrimeChoice Product 1923,Grocery,DailyNeeds,790.88,428.17,817,Supplier_C
+1924,HomeEase Product 1924,Grocery,HomeEase,1899.66,1035.42,383,Supplier_E
+1925,Elite Product 1925,Electronics,PrimeChoice,1442.96,672.46,40,Supplier_D
+1926,Nova Product 1926,Sports,StyleHub,1637.19,1265.15,445,Supplier_C
+1927,DailyNeeds Product 1927,Fashion,SmartBuy,973.96,593.3,62,Supplier_E
+1928,DailyNeeds Product 1928,Home & Kitchen,TechPro,543.32,439.93,499,Supplier_B
+1929,SmartBuy Product 1929,Electronics,TechPro,3856.48,2130.38,843,Supplier_D
+1930,SmartBuy Product 1930,Accessories,StyleHub,1875.48,1510.95,979,Supplier_B
+1931,PrimeChoice Product 1931,Beauty,DailyNeeds,1549.07,720.0,421,Supplier_A
+1932,FitLife Product 1932,Home & Kitchen,PrimeChoice,2338.77,1175.95,110,Supplier_E
+1933,PrimeChoice Product 1933,Automotive,StyleHub,669.34,351.78,25,Supplier_B
+1934,PrimeChoice Product 1934,Automotive,DailyNeeds,-100.0,2325.82,849,Supplier_B
+1935,Nova Product 1935,Toys,TechPro,782.98,612.09,759,Supplier_A
+1936,UrbanX Product 1936,Fashion,Elite,1801.3,1302.01,38,Supplier_D
+1937,StyleHub Product 1937,Beauty,Elite,436.44,234.36,918,Supplier_A
+1938,PrimeChoice Product 1938,Automotive,TechPro,522.1,369.95,355,Supplier_E
+1939,Nova Product 1939,Home & Kitchen,DailyNeeds,1544.68,708.26,228,Supplier_E
+1940,Elite Product 1940,Grocery,StyleHub,12998.13,6674.29,97,Supplier_D
+1941,TechPro Product 1941,Sports,SmartBuy,269.12,141.94,93,Supplier_C
+1942,Elite Product 1942,Automotive,HomeEase,1140.87,542.09,253,Supplier_B
+1943,Elite Product 1943,Electronics,StyleHub,205.07,147.35,308,Supplier_A
+1944,Nova Product 1944,Automotive,SmartBuy,3084.22,2421.98,143,Supplier_D
+1945,HomeEase Product 1945,Fashion,HomeEase,-100.0,4079.56,2,Supplier_E
+1946,Nova Product 1946,Grocery,UrbanX,1188.98,833.36,361,Supplier_A
+1947,FitLife Product 1947,Automotive,PrimeChoice,1147.78,664.9,14,Supplier_C
+1948,DailyNeeds Product 1948,Accessories,StyleHub,2375.35,1909.42,166,Supplier_A
+1949,Nova Product 1949,Home & Kitchen,Nova,2624.35,1600.16,295,Supplier_B
+1950,FitLife Product 1950,Accessories,Elite,2860.33,1296.77,137,Supplier_D
+1951,StyleHub Product 1951,Books,StyleHub,1761.7,1017.11,21,Supplier_C
+1952,FitLife Product 1952,Electronics,TechPro,999999.0,875.33,445,Supplier_E
+1953,SmartBuy Product 1953,Automotive,UrbanX,1795.08,1193.38,714,Supplier_A
+1954,DailyNeeds Product 1954,Beauty,UrbanX,721.23,501.41,7,Supplier_C
+1955,TechPro Product 1955,Toys,HomeEase,749.31,475.5,882,Supplier_A
+1956,TechPro Product 1956,Fashion,PrimeChoice,450.21,262.76,663,Supplier_D
+1957,StyleHub Product 1957,Home & Kitchen,FitLife,1604.59,1150.44,185,Supplier_E
+1958,TechPro Product 1958,Books,Elite,6221.78,3014.3,695,Supplier_E
+1959,Elite Product 1959,Books,HomeEase,2041.06,1429.5,288,Supplier_E
+1960,PrimeChoice Product 1960,Fashion,DailyNeeds,500.77,336.0,942,Supplier_A
+1961,UrbanX Product 1961,Automotive,UrbanX,718.66,449.29,30,Supplier_C
+1962,Nova Product 1962,Toys,Nova,771.12,390.12,59,Supplier_C
+1963,TechPro Product 1963,Sports,Nova,954.27,715.81,960,Supplier_B
+1964,DailyNeeds Product 1964,Books,UrbanX,1764.33,1052.25,400,Supplier_D
+1965,SmartBuy Product 1965,Electronics,HomeEase,2128.08,1346.46,352,Supplier_A
+1966,PrimeChoice Product 1966,Fashion,DailyNeeds,7055.9,4657.27,963,Supplier_A
+1967,TechPro Product 1967,Toys,Elite,954.24,602.62,814,Supplier_C
+1968,FitLife Product 1968,Books,Elite,2163.28,1089.2,459,Supplier_A
+1969,TechPro Product 1969,Toys,SmartBuy,1374.72,770.29,41,Supplier_A
+1970,Nova Product 1970,Fashion,Elite,1244.05,820.27,403,Supplier_E
+1971,Nova Product 1971,Automotive,UrbanX,451.92,240.12,252,Supplier_C
+1972,FitLife Product 1972,Beauty,StyleHub,,2125.69,987,Supplier_B
+1973,Elite Product 1973,Grocery,UrbanX,747.13,517.08,338,Supplier_B
+1974,HomeEase Product 1974,Home & Kitchen,HomeEase,1330.74,644.57,618,Supplier_A
+1975,PrimeChoice Product 1975,Sports,TechPro,691.03,359.38,127,Supplier_C
+1976,FitLife Product 1976,Electronic,HomeEase,1144.74,772.47,736,Supplier_C
+1977,TechPro Product 1977,Beauty,StyleHub,587.58,349.53,312,Supplier_C
+1978,HomeEase Product 1978,Home & Kitchen,FitLife,1514.46,1048.14,283,Supplier_E
+1979,Elite Product 1979,Toys,UrbanX,2165.42,1541.83,254,Supplier_D
+1980,PrimeChoice Product 1980,Electronics,HomeEase,695.16,441.57,-5,Supplier_D
+1981,HomeEase Product 1981,Accessories,TechPro,1298.91,915.33,290,Supplier_C
+1982,DailyNeeds Product 1982,Beauty,TechPro,352.21,192.64,503,Supplier_E
+1983,DailyNeeds Product 1983,Sports,HomeEase,985.14,601.12,333,Supplier_C
+1984,SmartBuy Product 1984,Electronics,UrbanX,1007.77,772.17,621,Supplier_E
+1985,FitLife Product 1985,Fashion,FitLife,411.87,286.67,762,Supplier_D
+1986,HomeEase Product 1986,Grocery,DailyNeeds,4474.4,3008.63,785,Supplier_D
+1987,Elite Product 1987,Sports,StyleHub,694.96,494.43,552,Supplier_B
+1988,StyleHub Product 1988,Accessories,Elite,948.77,720.41,971,Supplier_D
+1989,HomeEase Product 1989,Sports,PrimeChoice,1655.47,858.11,44,Supplier_A
+1990,PrimeChoice Product 1990,Accessories,Nova,3294.39,2578.2,683,Supplier_D
+1991,TechPro Product 1991,Accessories,UrbanX,588.25,374.82,420,Supplier_C
+1992,SmartBuy Product 1992,Toys,Nova,396.63,243.21,936,Supplier_B
+1993,TechPro Product 1993,Automotive,SmartBuy,1270.93,616.88,815,Supplier_D
+1994,TechPro Product 1994,Home & Kitchen,Elite,824.17,476.77,591,Supplier_C
+1995,PrimeChoice Product 1995,Electronic,Elite,2047.25,1486.02,895,Supplier_B
+1996,Nova Product 1996,Beauty,FitLife,673.56,540.67,797,Supplier_C
+1997,UrbanX Product 1997,Beauty,DailyNeeds,952.54,741.14,340,Supplier_E
+1998,PrimeChoice Product 1998,Beauty,DailyNeeds,2659.01,1680.76,627,Supplier_B
+1999,Nova Product 1999,Accessories,TechPro,532.11,431.47,315,Supplier_A
+2000,UrbanX Product 2000,Beauty,PrimeChoice,917.68,599.46,206,Supplier_D
