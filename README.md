@@ -22,9 +22,9 @@ The analysis covers:
 - Business Question Analysis
 - Data Visualization
 - Business Insights
-
+  
 ---
-🎯 Project Objectives
+### 🎯 Project Objectives
 The major objectives of this project are:
 Understand the structure and quality of the raw data.
 Clean and preprocess all datasets.
@@ -39,7 +39,7 @@ Build a complete end-to-end E-Commerce analytics project.
 
 ---
 
-## 📊 Dataset Structure
+### 📊 Dataset Structure
 
 The project contains six relational tables:
 
