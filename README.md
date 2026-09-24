@@ -93,3 +93,21 @@ Order_Items
     │ product_id
     ↓
 Products
+
+
+## 🧹 Data Quality Challenges
+The raw datasets contain several real-world-style data quality problems.
+The project identifies and handles issues such as:
+Missing values
+Duplicate records
+Invalid foreign keys
+Incorrect data types
+Invalid dates
+Negative quantities
+Negative amounts
+Extreme outliers
+Inconsistent category names
+Inconsistent payment methods
+Invalid ratings
+Incorrect or unusual values
+The objective is not simply to remove problematic records, but to understand the issue and apply an appropriate data-cleaning approach.
