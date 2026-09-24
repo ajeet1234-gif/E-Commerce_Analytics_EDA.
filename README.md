@@ -253,13 +253,13 @@ What are the major sales and profitability patterns in the business?
 
 ### 🧰 Tools & Technologies
 The project was developed using:
-Tool - Technology	Purpose
-Python - Programming and analysis
-Pandas -	Data manipulation and analysis
-NumPy - 	Numerical operations
-Matplotlib -	Data visualization
-Seaborn	 - Statistical visualization
-Jupyter Notebook - Development environment
+Tool - 
+Python ,
+Pandas ,
+NumPy ,
+Matplotlib ,
+Seaborn	 ,
+Jupyter Notebook 
 
 ---
 
