@@ -264,9 +264,9 @@ Jupyter Notebook
 ---
 
 ### 👨‍💻 Author
-Ajeet Kumar
-Data Science Aspirant
-This project was created as part of my Data Science and Analytics learning journey to practice real-world data cleaning, exploratory analysis, visualization, and business problem-solving using Python.
+### Ajeet Kumar
+#### Data Science Aspirant
+#### This project was created as part of my Data Science and Analytics learning journey to practice real-world data cleaning, exploratory analysis, visualization, and business problem-solving using Python.
 
 
 ### ⭐ Conclusion
